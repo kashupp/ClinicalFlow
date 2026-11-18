@@ -1,0 +1,42 @@
+# Python environments
+clin_flow/
+clin_flow_env/
+.venv/
+venv/
+
+# Python cache and testing
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+
+# Generated outputs
+results/*
+!results/.gitkeep
+
+# macOS
+.DS_Store
+._*
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.key
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Generated processed clinical data
+data/processed/*
+!data/processed/.gitkeep
+
+# Script backups
+*_backup.py

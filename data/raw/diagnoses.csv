@@ -1,0 +1,1511 @@
+patient_id,diagnosis_code,diagnosis_description,diagnosis_date
+PAT0001,I25.1,Atherosclerotic heart disease,2025-01-29
+PAT0001,I10,Essential hypertension,2025-06-27
+PAT0002,I25.1,Atherosclerotic heart disease,2025-12-06
+PAT0003,I25.1,Atherosclerotic heart disease,2025-03-28
+PAT0004,I10,Essential hypertension,2025-04-10
+PAT0005,I10,Essential hypertension,2025-06-20
+PAT0006,I25.1,Atherosclerotic heart disease,2025-07-24
+PAT0006,I10,Essential hypertension,2025-04-08
+PAT0007,I50.9,Heart failure,2025-11-15
+PAT0008,E78.5,Dyslipidaemia,2025-05-09
+PAT0008,I25.1,Atherosclerotic heart disease,2025-02-09
+PAT0009,I25.1,Atherosclerotic heart disease,2025-01-12
+PAT0009,I50.9,Heart failure,2025-01-25
+PAT0010,I25.1,Atherosclerotic heart disease,2025-02-10
+PAT0010,I50.9,Heart failure,2025-12-03
+PAT0011,I10,Essential hypertension,2025-07-02
+PAT0011,I25.1,Atherosclerotic heart disease,2025-03-08
+PAT0012,I10,Essential hypertension,2025-11-13
+PAT0012,E78.5,Dyslipidaemia,2025-02-24
+PAT0013,E78.5,Dyslipidaemia,2025-06-18
+PAT0013,I10,Essential hypertension,2025-09-13
+PAT0014,E78.5,Dyslipidaemia,2025-03-02
+PAT0015,I50.9,Heart failure,2025-03-12
+PAT0015,I10,Essential hypertension,2025-11-15
+PAT0016,I10,Essential hypertension,2025-02-22
+PAT0017,I10,Essential hypertension,2025-09-05
+PAT0017,E78.5,Dyslipidaemia,2025-02-24
+PAT0018,I50.9,Heart failure,2025-01-03
+PAT0018,I25.1,Atherosclerotic heart disease,2025-01-28
+PAT0019,E78.5,Dyslipidaemia,2025-03-21
+PAT0019,I50.9,Heart failure,2025-06-14
+PAT0020,I25.1,Atherosclerotic heart disease,2025-04-18
+PAT0020,I10,Essential hypertension,2025-01-27
+PAT0021,E78.5,Dyslipidaemia,2025-11-06
+PAT0022,E78.5,Dyslipidaemia,2025-09-16
+PAT0023,I25.1,Atherosclerotic heart disease,2025-02-09
+PAT0023,I10,Essential hypertension,2025-03-02
+PAT0024,I25.1,Atherosclerotic heart disease,2025-01-21
+PAT0025,I25.1,Atherosclerotic heart disease,2025-06-02
+PAT0026,E78.5,Dyslipidaemia,2025-12-25
+PAT0027,I25.1,Atherosclerotic heart disease,2025-03-25
+PAT0028,I10,Essential hypertension,2025-08-10
+PAT0029,E78.5,Dyslipidaemia,2025-03-14
+PAT0030,I50.9,Heart failure,2025-08-28
+PAT0030,I25.1,Atherosclerotic heart disease,2025-12-19
+PAT0031,E78.5,Dyslipidaemia,2025-05-05
+PAT0031,I50.9,Heart failure,2025-06-09
+PAT0032,E78.5,Dyslipidaemia,2025-08-22
+PAT0032,I25.1,Atherosclerotic heart disease,2025-01-17
+PAT0033,E78.5,Dyslipidaemia,2025-08-17
+PAT0033,I25.1,Atherosclerotic heart disease,2025-01-04
+PAT0034,I50.9,Heart failure,2025-07-20
+PAT0034,I10,Essential hypertension,2025-06-16
+PAT0035,E78.5,Dyslipidaemia,2025-10-21
+PAT0036,I50.9,Heart failure,2025-07-10
+PAT0036,E78.5,Dyslipidaemia,2025-02-06
+PAT0037,I50.9,Heart failure,2025-03-16
+PAT0038,E78.5,Dyslipidaemia,2025-02-19
+PAT0038,I25.1,Atherosclerotic heart disease,2025-03-09
+PAT0039,I50.9,Heart failure,2025-01-18
+PAT0040,I50.9,Heart failure,2025-10-15
+PAT0041,E78.5,Dyslipidaemia,2025-12-07
+PAT0041,I10,Essential hypertension,2025-02-03
+PAT0042,I10,Essential hypertension,2025-12-29
+PAT0043,E78.5,Dyslipidaemia,2025-09-09
+PAT0043,I50.9,Heart failure,2025-07-12
+PAT0044,I10,Essential hypertension,2025-10-22
+PAT0044,I50.9,Heart failure,2025-04-13
+PAT0045,E78.5,Dyslipidaemia,2025-01-07
+PAT0045,I10,Essential hypertension,2025-06-12
+PAT0046,I10,Essential hypertension,2025-04-09
+PAT0047,I10,Essential hypertension,2025-06-16
+PAT0048,I50.9,Heart failure,2025-03-13
+PAT0048,E78.5,Dyslipidaemia,2025-06-04
+PAT0049,I25.1,Atherosclerotic heart disease,2025-08-26
+PAT0050,E78.5,Dyslipidaemia,2025-03-04
+PAT0051,I10,Essential hypertension,2025-04-02
+PAT0051,E78.5,Dyslipidaemia,2025-01-22
+PAT0052,E78.5,Dyslipidaemia,2025-01-11
+PAT0053,I10,Essential hypertension,2025-11-10
+PAT0054,I10,Essential hypertension,2025-08-31
+PAT0055,I50.9,Heart failure,2025-05-08
+PAT0056,I50.9,Heart failure,2025-04-12
+PAT0056,I10,Essential hypertension,2025-04-20
+PAT0057,I25.1,Atherosclerotic heart disease,2025-11-08
+PAT0057,I10,Essential hypertension,2025-11-21
+PAT0058,E78.5,Dyslipidaemia,2025-10-03
+PAT0059,I10,Essential hypertension,2025-03-12
+PAT0060,I50.9,Heart failure,2025-09-15
+PAT0060,E78.5,Dyslipidaemia,2025-03-06
+PAT0061,I50.9,Heart failure,2025-07-26
+PAT0062,I25.1,Atherosclerotic heart disease,2025-04-29
+PAT0063,E78.5,Dyslipidaemia,2025-09-30
+PAT0063,I25.1,Atherosclerotic heart disease,2025-07-23
+PAT0064,I25.1,Atherosclerotic heart disease,2025-11-05
+PAT0065,I25.1,Atherosclerotic heart disease,2025-12-01
+PAT0065,I50.9,Heart failure,2025-09-01
+PAT0066,E78.5,Dyslipidaemia,2025-09-27
+PAT0067,I25.1,Atherosclerotic heart disease,2025-08-24
+PAT0067,I10,Essential hypertension,2025-07-01
+PAT0068,E78.5,Dyslipidaemia,2025-07-04
+PAT0069,I10,Essential hypertension,2025-04-30
+PAT0070,I25.1,Atherosclerotic heart disease,2025-06-25
+PAT0071,I25.1,Atherosclerotic heart disease,2025-02-28
+PAT0071,E78.5,Dyslipidaemia,2025-10-12
+PAT0072,I50.9,Heart failure,2025-11-24
+PAT0073,E78.5,Dyslipidaemia,2025-08-26
+PAT0073,I25.1,Atherosclerotic heart disease,2025-09-05
+PAT0074,E78.5,Dyslipidaemia,2025-03-17
+PAT0074,I25.1,Atherosclerotic heart disease,2025-06-17
+PAT0075,I10,Essential hypertension,2025-12-26
+PAT0076,I50.9,Heart failure,2025-07-26
+PAT0076,E78.5,Dyslipidaemia,2025-12-07
+PAT0077,E78.5,Dyslipidaemia,2025-11-15
+PAT0078,I10,Essential hypertension,2025-12-20
+PAT0079,E78.5,Dyslipidaemia,2025-05-15
+PAT0079,I25.1,Atherosclerotic heart disease,2025-09-01
+PAT0080,I50.9,Heart failure,2025-04-09
+PAT0080,I10,Essential hypertension,2025-10-12
+PAT0081,I50.9,Heart failure,2025-08-14
+PAT0082,E78.5,Dyslipidaemia,2025-06-19
+PAT0082,I25.1,Atherosclerotic heart disease,2025-06-17
+PAT0083,I10,Essential hypertension,2025-07-09
+PAT0083,E78.5,Dyslipidaemia,2025-02-18
+PAT0084,I50.9,Heart failure,2025-12-17
+PAT0084,I25.1,Atherosclerotic heart disease,2025-11-16
+PAT0085,I10,Essential hypertension,2025-03-12
+PAT0085,I50.9,Heart failure,2025-06-22
+PAT0086,E78.5,Dyslipidaemia,2025-03-22
+PAT0086,I50.9,Heart failure,2025-07-08
+PAT0087,I25.1,Atherosclerotic heart disease,2025-04-06
+PAT0087,E78.5,Dyslipidaemia,2025-08-12
+PAT0088,E78.5,Dyslipidaemia,2025-03-20
+PAT0089,I25.1,Atherosclerotic heart disease,2025-10-15
+PAT0089,I50.9,Heart failure,2025-08-16
+PAT0090,E78.5,Dyslipidaemia,2025-09-22
+PAT0090,I25.1,Atherosclerotic heart disease,2025-09-01
+PAT0091,I50.9,Heart failure,2025-06-05
+PAT0092,E78.5,Dyslipidaemia,2025-02-26
+PAT0092,I10,Essential hypertension,2025-07-12
+PAT0093,I25.1,Atherosclerotic heart disease,2025-04-30
+PAT0093,I50.9,Heart failure,2025-01-17
+PAT0094,E78.5,Dyslipidaemia,2025-06-20
+PAT0095,I25.1,Atherosclerotic heart disease,2025-01-16
+PAT0096,I25.1,Atherosclerotic heart disease,2025-01-26
+PAT0097,I25.1,Atherosclerotic heart disease,2025-03-05
+PAT0097,I50.9,Heart failure,2025-09-27
+PAT0098,I25.1,Atherosclerotic heart disease,2025-03-18
+PAT0098,I50.9,Heart failure,2025-05-29
+PAT0099,I50.9,Heart failure,2025-06-17
+PAT0100,E78.5,Dyslipidaemia,2025-08-11
+PAT0100,I10,Essential hypertension,2025-08-01
+PAT0101,I50.9,Heart failure,2025-10-16
+PAT0101,I10,Essential hypertension,2025-02-16
+PAT0102,I50.9,Heart failure,2025-10-26
+PAT0103,I25.1,Atherosclerotic heart disease,2025-11-06
+PAT0104,E78.5,Dyslipidaemia,2025-03-13
+PAT0105,E78.5,Dyslipidaemia,2025-06-12
+PAT0105,I50.9,Heart failure,2025-01-02
+PAT0106,I25.1,Atherosclerotic heart disease,2025-07-16
+PAT0106,I10,Essential hypertension,2025-03-17
+PAT0107,I50.9,Heart failure,2025-09-14
+PAT0107,I25.1,Atherosclerotic heart disease,2025-04-12
+PAT0108,I10,Essential hypertension,2025-03-24
+PAT0109,I25.1,Atherosclerotic heart disease,2025-09-06
+PAT0109,I50.9,Heart failure,2025-07-08
+PAT0110,I50.9,Heart failure,2025-02-03
+PAT0111,I50.9,Heart failure,2025-08-02
+PAT0111,I25.1,Atherosclerotic heart disease,2025-03-15
+PAT0112,I10,Essential hypertension,2025-01-24
+PAT0113,E78.5,Dyslipidaemia,2025-11-27
+PAT0114,I25.1,Atherosclerotic heart disease,2025-04-17
+PAT0115,E78.5,Dyslipidaemia,2025-06-30
+PAT0116,I10,Essential hypertension,2025-12-02
+PAT0116,I50.9,Heart failure,2025-11-29
+PAT0117,E78.5,Dyslipidaemia,2025-02-07
+PAT0117,I10,Essential hypertension,2025-10-15
+PAT0118,I50.9,Heart failure,2025-04-13
+PAT0119,I10,Essential hypertension,2025-03-21
+PAT0119,I25.1,Atherosclerotic heart disease,2025-02-28
+PAT0120,I50.9,Heart failure,2025-09-09
+PAT0120,I25.1,Atherosclerotic heart disease,2025-08-06
+PAT0121,I50.9,Heart failure,2025-08-11
+PAT0121,I25.1,Atherosclerotic heart disease,2025-04-29
+PAT0122,I50.9,Heart failure,2025-04-22
+PAT0123,I10,Essential hypertension,2025-10-15
+PAT0124,I10,Essential hypertension,2025-06-28
+PAT0125,I25.1,Atherosclerotic heart disease,2025-02-08
+PAT0125,I10,Essential hypertension,2025-06-23
+PAT0126,I50.9,Heart failure,2025-05-21
+PAT0127,I10,Essential hypertension,2025-12-10
+PAT0127,I25.1,Atherosclerotic heart disease,2025-05-21
+PAT0128,I50.9,Heart failure,2025-02-06
+PAT0129,E78.5,Dyslipidaemia,2025-01-06
+PAT0129,I50.9,Heart failure,2025-08-06
+PAT0130,E78.5,Dyslipidaemia,2025-07-16
+PAT0131,E78.5,Dyslipidaemia,2025-03-04
+PAT0132,I10,Essential hypertension,2025-12-19
+PAT0133,I50.9,Heart failure,2025-01-09
+PAT0133,I25.1,Atherosclerotic heart disease,2025-06-05
+PAT0134,I10,Essential hypertension,2025-06-24
+PAT0134,E78.5,Dyslipidaemia,2025-08-12
+PAT0135,E78.5,Dyslipidaemia,2025-06-06
+PAT0135,I10,Essential hypertension,2025-07-13
+PAT0136,E78.5,Dyslipidaemia,2025-12-06
+PAT0136,I25.1,Atherosclerotic heart disease,2025-05-21
+PAT0137,I25.1,Atherosclerotic heart disease,2025-04-28
+PAT0137,E78.5,Dyslipidaemia,2025-10-04
+PAT0138,I25.1,Atherosclerotic heart disease,2025-07-29
+PAT0138,I10,Essential hypertension,2025-11-04
+PAT0139,I25.1,Atherosclerotic heart disease,2025-08-24
+PAT0139,I50.9,Heart failure,2025-03-18
+PAT0140,I10,Essential hypertension,2025-05-29
+PAT0141,I50.9,Heart failure,2025-05-31
+PAT0141,I10,Essential hypertension,2025-08-26
+PAT0142,E78.5,Dyslipidaemia,2025-08-16
+PAT0142,I25.1,Atherosclerotic heart disease,2025-03-10
+PAT0143,E78.5,Dyslipidaemia,2025-04-02
+PAT0144,I50.9,Heart failure,2025-11-06
+PAT0145,I10,Essential hypertension,2025-08-28
+PAT0145,I50.9,Heart failure,2025-01-06
+PAT0146,I10,Essential hypertension,2025-06-09
+PAT0146,I25.1,Atherosclerotic heart disease,2025-12-02
+PAT0147,I10,Essential hypertension,2025-02-22
+PAT0147,E78.5,Dyslipidaemia,2025-08-30
+PAT0148,E78.5,Dyslipidaemia,2025-04-09
+PAT0148,I10,Essential hypertension,2025-09-07
+PAT0149,I50.9,Heart failure,2025-02-06
+PAT0150,I50.9,Heart failure,2025-08-07
+PAT0151,I10,Essential hypertension,2025-01-23
+PAT0152,I25.1,Atherosclerotic heart disease,2025-04-18
+PAT0152,E78.5,Dyslipidaemia,2025-02-06
+PAT0153,I25.1,Atherosclerotic heart disease,2025-07-23
+PAT0153,E78.5,Dyslipidaemia,2025-10-23
+PAT0154,I50.9,Heart failure,2025-03-18
+PAT0154,E78.5,Dyslipidaemia,2025-07-10
+PAT0155,I25.1,Atherosclerotic heart disease,2025-03-19
+PAT0156,I50.9,Heart failure,2025-07-26
+PAT0156,I10,Essential hypertension,2025-11-29
+PAT0157,I10,Essential hypertension,2025-01-14
+PAT0157,E78.5,Dyslipidaemia,2025-07-21
+PAT0158,I25.1,Atherosclerotic heart disease,2025-10-27
+PAT0158,I10,Essential hypertension,2025-03-26
+PAT0159,I50.9,Heart failure,2025-12-14
+PAT0160,E78.5,Dyslipidaemia,2025-02-25
+PAT0161,I10,Essential hypertension,2025-04-11
+PAT0161,I50.9,Heart failure,2025-09-12
+PAT0162,I50.9,Heart failure,2025-07-18
+PAT0162,E78.5,Dyslipidaemia,2025-07-28
+PAT0163,I50.9,Heart failure,2025-06-02
+PAT0164,E78.5,Dyslipidaemia,2025-09-22
+PAT0164,I10,Essential hypertension,2025-11-17
+PAT0165,E78.5,Dyslipidaemia,2025-03-14
+PAT0166,E78.5,Dyslipidaemia,2025-07-05
+PAT0166,I25.1,Atherosclerotic heart disease,2025-06-04
+PAT0167,E78.5,Dyslipidaemia,2025-10-21
+PAT0168,I50.9,Heart failure,2025-04-10
+PAT0169,I25.1,Atherosclerotic heart disease,2025-10-05
+PAT0169,I50.9,Heart failure,2025-07-23
+PAT0170,I25.1,Atherosclerotic heart disease,2025-08-16
+PAT0171,E78.5,Dyslipidaemia,2025-03-02
+PAT0172,I25.1,Atherosclerotic heart disease,2025-02-08
+PAT0172,E78.5,Dyslipidaemia,2025-02-24
+PAT0173,E78.5,Dyslipidaemia,2025-01-21
+PAT0173,I10,Essential hypertension,2025-02-13
+PAT0174,I10,Essential hypertension,2025-01-05
+PAT0175,I10,Essential hypertension,2025-12-29
+PAT0175,E78.5,Dyslipidaemia,2025-10-06
+PAT0176,E78.5,Dyslipidaemia,2025-01-24
+PAT0177,I10,Essential hypertension,2025-05-13
+PAT0178,I25.1,Atherosclerotic heart disease,2025-07-01
+PAT0179,I10,Essential hypertension,2025-07-13
+PAT0179,I25.1,Atherosclerotic heart disease,2025-03-05
+PAT0180,I50.9,Heart failure,2025-09-02
+PAT0181,I50.9,Heart failure,2025-07-14
+PAT0182,I50.9,Heart failure,2025-10-20
+PAT0183,I10,Essential hypertension,2025-10-27
+PAT0184,E78.5,Dyslipidaemia,2025-02-09
+PAT0185,E78.5,Dyslipidaemia,2025-06-07
+PAT0185,I50.9,Heart failure,2025-11-22
+PAT0186,I25.1,Atherosclerotic heart disease,2025-03-26
+PAT0186,I50.9,Heart failure,2025-06-28
+PAT0187,I25.1,Atherosclerotic heart disease,2025-12-13
+PAT0188,I10,Essential hypertension,2025-07-28
+PAT0189,I25.1,Atherosclerotic heart disease,2025-10-22
+PAT0189,I50.9,Heart failure,2025-12-29
+PAT0190,I50.9,Heart failure,2025-06-16
+PAT0190,E78.5,Dyslipidaemia,2025-06-05
+PAT0191,I25.1,Atherosclerotic heart disease,2025-03-14
+PAT0192,I50.9,Heart failure,2025-09-26
+PAT0192,I10,Essential hypertension,2025-09-20
+PAT0193,I25.1,Atherosclerotic heart disease,2025-06-05
+PAT0194,E78.5,Dyslipidaemia,2025-08-17
+PAT0194,I10,Essential hypertension,2025-10-17
+PAT0195,I50.9,Heart failure,2025-07-25
+PAT0195,I25.1,Atherosclerotic heart disease,2025-04-13
+PAT0196,I50.9,Heart failure,2025-02-16
+PAT0197,I10,Essential hypertension,2025-03-16
+PAT0197,I50.9,Heart failure,2025-03-05
+PAT0198,I10,Essential hypertension,2025-04-28
+PAT0198,I25.1,Atherosclerotic heart disease,2025-04-25
+PAT0199,I50.9,Heart failure,2025-07-15
+PAT0199,I10,Essential hypertension,2025-01-17
+PAT0200,I25.1,Atherosclerotic heart disease,2025-05-24
+PAT0200,E78.5,Dyslipidaemia,2025-06-15
+PAT0201,I25.1,Atherosclerotic heart disease,2025-09-14
+PAT0201,E78.5,Dyslipidaemia,2025-08-11
+PAT0202,I10,Essential hypertension,2025-10-17
+PAT0202,I50.9,Heart failure,2025-03-18
+PAT0203,I50.9,Heart failure,2025-05-12
+PAT0203,I25.1,Atherosclerotic heart disease,2025-07-28
+PAT0204,E78.5,Dyslipidaemia,2025-08-22
+PAT0205,I25.1,Atherosclerotic heart disease,2025-05-14
+PAT0205,E78.5,Dyslipidaemia,2025-01-01
+PAT0206,I10,Essential hypertension,2025-10-04
+PAT0206,E78.5,Dyslipidaemia,2025-05-12
+PAT0207,I25.1,Atherosclerotic heart disease,2025-08-30
+PAT0208,E78.5,Dyslipidaemia,2025-12-06
+PAT0209,I25.1,Atherosclerotic heart disease,2025-06-24
+PAT0209,E78.5,Dyslipidaemia,2025-10-20
+PAT0210,I25.1,Atherosclerotic heart disease,2025-11-14
+PAT0211,I10,Essential hypertension,2025-10-23
+PAT0212,E78.5,Dyslipidaemia,2025-12-04
+PAT0213,I50.9,Heart failure,2025-04-08
+PAT0213,I10,Essential hypertension,2025-02-12
+PAT0214,E78.5,Dyslipidaemia,2025-11-02
+PAT0215,I50.9,Heart failure,2025-07-08
+PAT0215,I25.1,Atherosclerotic heart disease,2025-03-31
+PAT0216,I50.9,Heart failure,2025-05-13
+PAT0217,I25.1,Atherosclerotic heart disease,2025-01-28
+PAT0217,E78.5,Dyslipidaemia,2025-10-16
+PAT0218,I50.9,Heart failure,2025-07-12
+PAT0219,I50.9,Heart failure,2025-11-10
+PAT0219,E78.5,Dyslipidaemia,2025-07-21
+PAT0220,I10,Essential hypertension,2025-12-18
+PAT0221,I25.1,Atherosclerotic heart disease,2025-11-09
+PAT0222,I10,Essential hypertension,2025-04-08
+PAT0222,I25.1,Atherosclerotic heart disease,2025-12-15
+PAT0223,I10,Essential hypertension,2025-12-04
+PAT0224,E78.5,Dyslipidaemia,2025-02-22
+PAT0225,I50.9,Heart failure,2025-10-01
+PAT0225,E78.5,Dyslipidaemia,2025-09-22
+PAT0226,I10,Essential hypertension,2025-09-14
+PAT0227,I10,Essential hypertension,2025-05-12
+PAT0227,E78.5,Dyslipidaemia,2025-09-09
+PAT0228,I10,Essential hypertension,2025-04-17
+PAT0229,I25.1,Atherosclerotic heart disease,2025-07-23
+PAT0229,I10,Essential hypertension,2025-06-17
+PAT0230,E78.5,Dyslipidaemia,2025-12-26
+PAT0230,I50.9,Heart failure,2025-11-24
+PAT0231,I50.9,Heart failure,2025-03-15
+PAT0231,E78.5,Dyslipidaemia,2025-07-06
+PAT0232,I50.9,Heart failure,2025-07-07
+PAT0233,E78.5,Dyslipidaemia,2025-01-01
+PAT0234,I25.1,Atherosclerotic heart disease,2025-05-14
+PAT0234,I10,Essential hypertension,2025-12-24
+PAT0235,I50.9,Heart failure,2025-04-16
+PAT0235,E78.5,Dyslipidaemia,2025-08-05
+PAT0236,E78.5,Dyslipidaemia,2025-10-03
+PAT0237,I10,Essential hypertension,2025-07-08
+PAT0237,I25.1,Atherosclerotic heart disease,2025-03-05
+PAT0238,E78.5,Dyslipidaemia,2025-01-08
+PAT0239,I25.1,Atherosclerotic heart disease,2025-01-16
+PAT0239,E78.5,Dyslipidaemia,2025-02-18
+PAT0240,E78.5,Dyslipidaemia,2025-12-30
+PAT0240,I25.1,Atherosclerotic heart disease,2025-05-05
+PAT0241,E78.5,Dyslipidaemia,2025-09-07
+PAT0241,I10,Essential hypertension,2025-01-30
+PAT0242,I10,Essential hypertension,2025-03-27
+PAT0243,I10,Essential hypertension,2025-07-01
+PAT0244,I50.9,Heart failure,2025-10-02
+PAT0244,E78.5,Dyslipidaemia,2025-11-14
+PAT0245,E78.5,Dyslipidaemia,2025-11-30
+PAT0246,I10,Essential hypertension,2025-10-11
+PAT0247,I50.9,Heart failure,2025-08-22
+PAT0248,I50.9,Heart failure,2025-03-23
+PAT0249,I25.1,Atherosclerotic heart disease,2025-02-02
+PAT0249,I10,Essential hypertension,2025-08-16
+PAT0250,E78.5,Dyslipidaemia,2025-08-04
+PAT0251,I10,Essential hypertension,2025-06-04
+PAT0251,I25.1,Atherosclerotic heart disease,2025-03-16
+PAT0252,I50.9,Heart failure,2025-02-20
+PAT0252,E78.5,Dyslipidaemia,2025-07-05
+PAT0253,E78.5,Dyslipidaemia,2025-07-25
+PAT0253,I25.1,Atherosclerotic heart disease,2025-08-31
+PAT0254,E78.5,Dyslipidaemia,2025-10-04
+PAT0254,I50.9,Heart failure,2025-09-21
+PAT0255,I50.9,Heart failure,2025-05-14
+PAT0255,E78.5,Dyslipidaemia,2025-11-05
+PAT0256,I25.1,Atherosclerotic heart disease,2025-09-02
+PAT0257,I50.9,Heart failure,2025-01-14
+PAT0258,I10,Essential hypertension,2025-10-20
+PAT0259,I10,Essential hypertension,2025-11-19
+PAT0260,I50.9,Heart failure,2025-06-17
+PAT0261,I25.1,Atherosclerotic heart disease,2025-10-05
+PAT0262,I10,Essential hypertension,2025-10-30
+PAT0262,I25.1,Atherosclerotic heart disease,2025-02-16
+PAT0263,I25.1,Atherosclerotic heart disease,2025-08-30
+PAT0263,E78.5,Dyslipidaemia,2025-09-09
+PAT0264,E78.5,Dyslipidaemia,2025-09-01
+PAT0264,I50.9,Heart failure,2025-08-15
+PAT0265,I25.1,Atherosclerotic heart disease,2025-09-25
+PAT0265,E78.5,Dyslipidaemia,2025-08-30
+PAT0266,I25.1,Atherosclerotic heart disease,2025-06-04
+PAT0267,I25.1,Atherosclerotic heart disease,2025-07-24
+PAT0267,I50.9,Heart failure,2025-08-03
+PAT0268,I50.9,Heart failure,2025-05-04
+PAT0268,I25.1,Atherosclerotic heart disease,2025-12-01
+PAT0269,I25.1,Atherosclerotic heart disease,2025-08-18
+PAT0270,I10,Essential hypertension,2025-04-10
+PAT0271,I10,Essential hypertension,2025-10-31
+PAT0271,E78.5,Dyslipidaemia,2025-11-08
+PAT0272,E78.5,Dyslipidaemia,2025-09-17
+PAT0273,I50.9,Heart failure,2025-08-25
+PAT0273,I10,Essential hypertension,2025-05-12
+PAT0274,E78.5,Dyslipidaemia,2025-02-18
+PAT0275,I10,Essential hypertension,2025-07-18
+PAT0275,I50.9,Heart failure,2025-10-06
+PAT0276,I50.9,Heart failure,2025-06-18
+PAT0277,I10,Essential hypertension,2025-08-27
+PAT0278,I10,Essential hypertension,2025-12-30
+PAT0278,I50.9,Heart failure,2025-11-01
+PAT0279,I50.9,Heart failure,2025-01-24
+PAT0279,I10,Essential hypertension,2025-12-28
+PAT0280,I10,Essential hypertension,2025-04-08
+PAT0281,I50.9,Heart failure,2025-08-17
+PAT0282,I25.1,Atherosclerotic heart disease,2025-05-13
+PAT0282,E78.5,Dyslipidaemia,2025-03-11
+PAT0283,E78.5,Dyslipidaemia,2025-09-25
+PAT0283,I50.9,Heart failure,2025-08-13
+PAT0284,I10,Essential hypertension,2025-08-30
+PAT0284,I50.9,Heart failure,2025-02-07
+PAT0285,E78.5,Dyslipidaemia,2025-06-13
+PAT0286,I25.1,Atherosclerotic heart disease,2025-11-01
+PAT0286,I50.9,Heart failure,2025-07-08
+PAT0287,I10,Essential hypertension,2025-12-21
+PAT0288,E78.5,Dyslipidaemia,2025-08-25
+PAT0289,I50.9,Heart failure,2025-09-25
+PAT0290,I10,Essential hypertension,2025-09-04
+PAT0290,I50.9,Heart failure,2025-05-14
+PAT0291,I10,Essential hypertension,2025-12-02
+PAT0292,I50.9,Heart failure,2025-07-20
+PAT0292,E78.5,Dyslipidaemia,2025-07-30
+PAT0293,I50.9,Heart failure,2025-04-27
+PAT0294,I25.1,Atherosclerotic heart disease,2025-06-06
+PAT0295,I10,Essential hypertension,2025-03-26
+PAT0295,I25.1,Atherosclerotic heart disease,2025-05-18
+PAT0296,I25.1,Atherosclerotic heart disease,2025-05-06
+PAT0296,I50.9,Heart failure,2025-10-04
+PAT0297,I10,Essential hypertension,2025-12-10
+PAT0298,E78.5,Dyslipidaemia,2025-11-04
+PAT0299,E78.5,Dyslipidaemia,2025-12-06
+PAT0300,I50.9,Heart failure,2025-06-22
+PAT0301,I50.9,Heart failure,2025-05-22
+PAT0301,E78.5,Dyslipidaemia,2025-12-03
+PAT0302,I10,Essential hypertension,2025-03-20
+PAT0303,I25.1,Atherosclerotic heart disease,2025-12-30
+PAT0303,I10,Essential hypertension,2025-04-15
+PAT0304,I25.1,Atherosclerotic heart disease,2025-05-06
+PAT0304,E78.5,Dyslipidaemia,2025-02-07
+PAT0305,I50.9,Heart failure,2025-11-07
+PAT0306,I10,Essential hypertension,2025-07-05
+PAT0306,I25.1,Atherosclerotic heart disease,2025-08-14
+PAT0307,E78.5,Dyslipidaemia,2025-03-19
+PAT0307,I50.9,Heart failure,2025-02-28
+PAT0308,I10,Essential hypertension,2025-05-08
+PAT0309,I25.1,Atherosclerotic heart disease,2025-03-02
+PAT0309,I10,Essential hypertension,2025-07-12
+PAT0310,E78.5,Dyslipidaemia,2025-02-06
+PAT0310,I50.9,Heart failure,2025-11-09
+PAT0311,E78.5,Dyslipidaemia,2025-06-05
+PAT0312,I10,Essential hypertension,2025-06-09
+PAT0313,I50.9,Heart failure,2025-06-03
+PAT0314,I25.1,Atherosclerotic heart disease,2025-02-13
+PAT0315,I10,Essential hypertension,2025-03-20
+PAT0315,I25.1,Atherosclerotic heart disease,2025-08-11
+PAT0316,E78.5,Dyslipidaemia,2025-05-18
+PAT0317,I25.1,Atherosclerotic heart disease,2025-03-14
+PAT0318,I50.9,Heart failure,2025-09-29
+PAT0318,I25.1,Atherosclerotic heart disease,2025-07-12
+PAT0319,I10,Essential hypertension,2025-12-26
+PAT0320,I25.1,Atherosclerotic heart disease,2025-07-17
+PAT0320,E78.5,Dyslipidaemia,2025-06-15
+PAT0321,I10,Essential hypertension,2025-05-09
+PAT0321,E78.5,Dyslipidaemia,2025-12-16
+PAT0322,I50.9,Heart failure,2025-04-11
+PAT0323,I50.9,Heart failure,2025-08-20
+PAT0324,I10,Essential hypertension,2025-04-30
+PAT0325,I25.1,Atherosclerotic heart disease,2025-11-12
+PAT0326,I25.1,Atherosclerotic heart disease,2025-01-25
+PAT0327,I25.1,Atherosclerotic heart disease,2025-10-24
+PAT0327,E78.5,Dyslipidaemia,2025-06-14
+PAT0328,I25.1,Atherosclerotic heart disease,2025-04-26
+PAT0328,I10,Essential hypertension,2025-12-01
+PAT0329,I25.1,Atherosclerotic heart disease,2025-04-14
+PAT0329,I50.9,Heart failure,2025-07-20
+PAT0330,I25.1,Atherosclerotic heart disease,2025-01-26
+PAT0331,E78.5,Dyslipidaemia,2025-10-03
+PAT0332,I25.1,Atherosclerotic heart disease,2025-03-12
+PAT0333,E78.5,Dyslipidaemia,2025-09-14
+PAT0333,I50.9,Heart failure,2025-10-23
+PAT0334,I50.9,Heart failure,2025-03-12
+PAT0334,I25.1,Atherosclerotic heart disease,2025-04-29
+PAT0335,I10,Essential hypertension,2025-05-11
+PAT0335,I50.9,Heart failure,2025-12-09
+PAT0336,I50.9,Heart failure,2025-03-09
+PAT0337,I25.1,Atherosclerotic heart disease,2025-08-24
+PAT0337,I10,Essential hypertension,2025-06-26
+PAT0338,I50.9,Heart failure,2025-06-13
+PAT0338,E78.5,Dyslipidaemia,2025-05-24
+PAT0339,I25.1,Atherosclerotic heart disease,2025-05-05
+PAT0339,E78.5,Dyslipidaemia,2025-03-29
+PAT0340,E78.5,Dyslipidaemia,2025-08-13
+PAT0341,E78.5,Dyslipidaemia,2025-08-09
+PAT0342,I50.9,Heart failure,2025-05-04
+PAT0343,E78.5,Dyslipidaemia,2025-09-26
+PAT0344,I50.9,Heart failure,2025-09-25
+PAT0345,I25.1,Atherosclerotic heart disease,2025-05-08
+PAT0346,I50.9,Heart failure,2025-10-15
+PAT0347,E78.5,Dyslipidaemia,2025-04-20
+PAT0348,I10,Essential hypertension,2025-06-09
+PAT0349,I50.9,Heart failure,2025-03-01
+PAT0350,I25.1,Atherosclerotic heart disease,2025-12-08
+PAT0350,I10,Essential hypertension,2025-02-14
+PAT0351,I50.9,Heart failure,2025-10-08
+PAT0351,E78.5,Dyslipidaemia,2025-06-02
+PAT0352,E78.5,Dyslipidaemia,2025-09-26
+PAT0352,I25.1,Atherosclerotic heart disease,2025-08-17
+PAT0353,I10,Essential hypertension,2025-03-27
+PAT0353,E78.5,Dyslipidaemia,2025-12-06
+PAT0354,E78.5,Dyslipidaemia,2025-01-31
+PAT0354,I10,Essential hypertension,2025-10-06
+PAT0355,I10,Essential hypertension,2025-12-01
+PAT0356,I10,Essential hypertension,2025-05-11
+PAT0356,I50.9,Heart failure,2025-08-20
+PAT0357,I25.1,Atherosclerotic heart disease,2025-07-29
+PAT0358,E78.5,Dyslipidaemia,2025-03-22
+PAT0358,I50.9,Heart failure,2025-12-27
+PAT0359,I10,Essential hypertension,2025-04-22
+PAT0359,I50.9,Heart failure,2025-08-18
+PAT0360,I50.9,Heart failure,2025-04-16
+PAT0361,E78.5,Dyslipidaemia,2025-03-27
+PAT0361,I10,Essential hypertension,2025-03-31
+PAT0362,I25.1,Atherosclerotic heart disease,2025-08-26
+PAT0363,I50.9,Heart failure,2025-12-03
+PAT0363,E78.5,Dyslipidaemia,2025-03-27
+PAT0364,I10,Essential hypertension,2025-11-28
+PAT0364,I50.9,Heart failure,2025-05-17
+PAT0365,I25.1,Atherosclerotic heart disease,2025-11-13
+PAT0366,E78.5,Dyslipidaemia,2025-08-01
+PAT0366,I10,Essential hypertension,2025-08-25
+PAT0367,I50.9,Heart failure,2025-07-22
+PAT0368,I25.1,Atherosclerotic heart disease,2025-05-19
+PAT0369,I50.9,Heart failure,2025-08-22
+PAT0369,I10,Essential hypertension,2025-12-30
+PAT0370,I50.9,Heart failure,2025-01-04
+PAT0370,E78.5,Dyslipidaemia,2025-04-26
+PAT0371,I50.9,Heart failure,2025-08-27
+PAT0371,E78.5,Dyslipidaemia,2025-03-11
+PAT0372,I10,Essential hypertension,2025-01-19
+PAT0372,I50.9,Heart failure,2025-06-15
+PAT0373,I25.1,Atherosclerotic heart disease,2025-02-03
+PAT0373,I10,Essential hypertension,2025-04-12
+PAT0374,I10,Essential hypertension,2025-01-21
+PAT0375,E78.5,Dyslipidaemia,2025-12-22
+PAT0375,I25.1,Atherosclerotic heart disease,2025-11-26
+PAT0376,I25.1,Atherosclerotic heart disease,2025-12-28
+PAT0376,E78.5,Dyslipidaemia,2025-01-21
+PAT0377,E78.5,Dyslipidaemia,2025-05-22
+PAT0378,I50.9,Heart failure,2025-09-24
+PAT0378,I10,Essential hypertension,2025-03-11
+PAT0379,I25.1,Atherosclerotic heart disease,2025-01-24
+PAT0379,E78.5,Dyslipidaemia,2025-03-01
+PAT0380,I25.1,Atherosclerotic heart disease,2025-06-22
+PAT0380,I10,Essential hypertension,2025-05-20
+PAT0381,I50.9,Heart failure,2025-11-22
+PAT0381,I10,Essential hypertension,2025-02-09
+PAT0382,I10,Essential hypertension,2025-06-08
+PAT0382,I50.9,Heart failure,2025-06-10
+PAT0383,I25.1,Atherosclerotic heart disease,2025-03-02
+PAT0384,E78.5,Dyslipidaemia,2025-09-10
+PAT0385,I10,Essential hypertension,2025-08-07
+PAT0385,I25.1,Atherosclerotic heart disease,2025-04-18
+PAT0386,I10,Essential hypertension,2025-09-20
+PAT0387,E78.5,Dyslipidaemia,2025-10-14
+PAT0387,I50.9,Heart failure,2025-01-07
+PAT0388,I10,Essential hypertension,2025-08-22
+PAT0389,I25.1,Atherosclerotic heart disease,2025-01-21
+PAT0389,I10,Essential hypertension,2025-01-27
+PAT0390,I10,Essential hypertension,2025-07-27
+PAT0390,I50.9,Heart failure,2025-06-22
+PAT0391,I10,Essential hypertension,2025-11-13
+PAT0392,I25.1,Atherosclerotic heart disease,2025-03-25
+PAT0392,I50.9,Heart failure,2025-02-13
+PAT0393,I10,Essential hypertension,2025-08-16
+PAT0393,I50.9,Heart failure,2025-06-13
+PAT0394,I50.9,Heart failure,2025-03-01
+PAT0395,I25.1,Atherosclerotic heart disease,2025-05-15
+PAT0396,I10,Essential hypertension,2025-05-25
+PAT0396,I25.1,Atherosclerotic heart disease,2025-05-04
+PAT0397,I25.1,Atherosclerotic heart disease,2025-02-06
+PAT0397,I50.9,Heart failure,2025-01-12
+PAT0398,I10,Essential hypertension,2025-06-17
+PAT0398,I50.9,Heart failure,2025-04-25
+PAT0399,I50.9,Heart failure,2025-09-28
+PAT0400,I25.1,Atherosclerotic heart disease,2025-11-04
+PAT0401,I50.9,Heart failure,2025-01-26
+PAT0402,I25.1,Atherosclerotic heart disease,2025-12-22
+PAT0403,I50.9,Heart failure,2025-05-24
+PAT0403,E78.5,Dyslipidaemia,2025-10-15
+PAT0404,I50.9,Heart failure,2025-01-24
+PAT0405,I50.9,Heart failure,2025-12-17
+PAT0405,I10,Essential hypertension,2025-04-14
+PAT0406,E78.5,Dyslipidaemia,2025-03-13
+PAT0406,I25.1,Atherosclerotic heart disease,2025-06-28
+PAT0407,I25.1,Atherosclerotic heart disease,2025-10-16
+PAT0407,I50.9,Heart failure,2025-07-16
+PAT0408,I10,Essential hypertension,2025-09-08
+PAT0408,I25.1,Atherosclerotic heart disease,2025-05-02
+PAT0409,I10,Essential hypertension,2025-05-28
+PAT0409,I25.1,Atherosclerotic heart disease,2025-11-02
+PAT0410,I10,Essential hypertension,2025-09-11
+PAT0410,I25.1,Atherosclerotic heart disease,2025-08-28
+PAT0411,I50.9,Heart failure,2025-09-09
+PAT0412,I10,Essential hypertension,2025-05-04
+PAT0412,E78.5,Dyslipidaemia,2025-11-28
+PAT0413,I50.9,Heart failure,2025-04-08
+PAT0414,E78.5,Dyslipidaemia,2025-08-14
+PAT0415,I10,Essential hypertension,2025-02-08
+PAT0416,E78.5,Dyslipidaemia,2025-04-16
+PAT0417,I25.1,Atherosclerotic heart disease,2025-07-12
+PAT0417,I50.9,Heart failure,2025-04-15
+PAT0418,E78.5,Dyslipidaemia,2025-02-22
+PAT0418,I25.1,Atherosclerotic heart disease,2025-03-14
+PAT0419,I50.9,Heart failure,2025-05-20
+PAT0419,E78.5,Dyslipidaemia,2025-12-21
+PAT0420,I25.1,Atherosclerotic heart disease,2025-06-21
+PAT0420,I10,Essential hypertension,2025-01-07
+PAT0421,I50.9,Heart failure,2025-10-08
+PAT0421,E78.5,Dyslipidaemia,2025-09-29
+PAT0422,E78.5,Dyslipidaemia,2025-01-25
+PAT0423,I50.9,Heart failure,2025-07-11
+PAT0424,I10,Essential hypertension,2025-12-28
+PAT0425,I25.1,Atherosclerotic heart disease,2025-05-02
+PAT0426,I25.1,Atherosclerotic heart disease,2025-01-25
+PAT0426,I10,Essential hypertension,2025-07-16
+PAT0427,I25.1,Atherosclerotic heart disease,2025-11-15
+PAT0428,I50.9,Heart failure,2025-11-05
+PAT0429,I10,Essential hypertension,2025-12-08
+PAT0429,I25.1,Atherosclerotic heart disease,2025-10-22
+PAT0430,I10,Essential hypertension,2025-03-27
+PAT0431,E78.5,Dyslipidaemia,2025-11-23
+PAT0432,E78.5,Dyslipidaemia,2025-06-28
+PAT0433,I10,Essential hypertension,2025-08-13
+PAT0433,I25.1,Atherosclerotic heart disease,2025-03-10
+PAT0434,I10,Essential hypertension,2025-08-25
+PAT0434,E78.5,Dyslipidaemia,2025-08-08
+PAT0435,I25.1,Atherosclerotic heart disease,2025-10-19
+PAT0436,I10,Essential hypertension,2025-09-06
+PAT0436,I50.9,Heart failure,2025-05-24
+PAT0437,I50.9,Heart failure,2025-02-13
+PAT0437,I25.1,Atherosclerotic heart disease,2025-04-12
+PAT0438,E78.5,Dyslipidaemia,2025-12-16
+PAT0439,I50.9,Heart failure,2025-07-29
+PAT0439,E78.5,Dyslipidaemia,2025-03-11
+PAT0440,I25.1,Atherosclerotic heart disease,2025-05-08
+PAT0440,E78.5,Dyslipidaemia,2025-11-20
+PAT0441,E78.5,Dyslipidaemia,2025-10-09
+PAT0441,I10,Essential hypertension,2025-06-09
+PAT0442,I25.1,Atherosclerotic heart disease,2025-02-19
+PAT0443,I10,Essential hypertension,2025-06-04
+PAT0444,E78.5,Dyslipidaemia,2025-09-19
+PAT0444,I25.1,Atherosclerotic heart disease,2025-03-13
+PAT0445,E78.5,Dyslipidaemia,2025-11-24
+PAT0445,I25.1,Atherosclerotic heart disease,2025-02-27
+PAT0446,E78.5,Dyslipidaemia,2025-03-13
+PAT0446,I10,Essential hypertension,2025-03-09
+PAT0447,I10,Essential hypertension,2025-02-11
+PAT0447,E78.5,Dyslipidaemia,2025-08-13
+PAT0448,I10,Essential hypertension,2025-03-24
+PAT0449,I10,Essential hypertension,2025-03-16
+PAT0450,I25.1,Atherosclerotic heart disease,2025-07-19
+PAT0450,I50.9,Heart failure,2025-07-05
+PAT0451,I10,Essential hypertension,2025-07-01
+PAT0452,E78.5,Dyslipidaemia,2025-06-09
+PAT0453,I50.9,Heart failure,2025-03-08
+PAT0454,E78.5,Dyslipidaemia,2025-09-03
+PAT0455,I50.9,Heart failure,2025-03-01
+PAT0455,I25.1,Atherosclerotic heart disease,2025-05-18
+PAT0456,E78.5,Dyslipidaemia,2025-06-02
+PAT0456,I25.1,Atherosclerotic heart disease,2025-11-13
+PAT0457,E78.5,Dyslipidaemia,2025-01-05
+PAT0457,I50.9,Heart failure,2025-11-18
+PAT0458,I50.9,Heart failure,2025-06-07
+PAT0458,I25.1,Atherosclerotic heart disease,2025-06-21
+PAT0459,I10,Essential hypertension,2025-03-17
+PAT0459,E78.5,Dyslipidaemia,2025-07-27
+PAT0460,I10,Essential hypertension,2025-12-06
+PAT0461,I25.1,Atherosclerotic heart disease,2025-12-10
+PAT0462,I50.9,Heart failure,2025-09-16
+PAT0463,I50.9,Heart failure,2025-08-27
+PAT0464,E78.5,Dyslipidaemia,2025-01-18
+PAT0464,I10,Essential hypertension,2025-08-01
+PAT0465,E78.5,Dyslipidaemia,2025-10-30
+PAT0466,I50.9,Heart failure,2025-08-15
+PAT0467,I25.1,Atherosclerotic heart disease,2025-03-22
+PAT0468,I50.9,Heart failure,2025-01-11
+PAT0468,E78.5,Dyslipidaemia,2025-09-29
+PAT0469,I10,Essential hypertension,2025-08-23
+PAT0469,I50.9,Heart failure,2025-06-25
+PAT0470,I50.9,Heart failure,2025-11-05
+PAT0470,I25.1,Atherosclerotic heart disease,2025-04-07
+PAT0471,I50.9,Heart failure,2025-01-10
+PAT0472,I25.1,Atherosclerotic heart disease,2025-06-22
+PAT0472,I50.9,Heart failure,2025-01-30
+PAT0473,I25.1,Atherosclerotic heart disease,2025-09-20
+PAT0473,I10,Essential hypertension,2025-04-06
+PAT0474,E78.5,Dyslipidaemia,2025-07-27
+PAT0475,I25.1,Atherosclerotic heart disease,2025-06-12
+PAT0476,I10,Essential hypertension,2025-10-18
+PAT0477,I50.9,Heart failure,2025-06-10
+PAT0477,E78.5,Dyslipidaemia,2025-10-29
+PAT0478,I25.1,Atherosclerotic heart disease,2025-10-07
+PAT0479,I25.1,Atherosclerotic heart disease,2025-07-29
+PAT0480,I50.9,Heart failure,2025-07-20
+PAT0480,E78.5,Dyslipidaemia,2025-02-18
+PAT0481,I25.1,Atherosclerotic heart disease,2025-06-30
+PAT0482,I50.9,Heart failure,2025-07-28
+PAT0483,I50.9,Heart failure,2025-04-15
+PAT0484,I10,Essential hypertension,2025-07-18
+PAT0485,I50.9,Heart failure,2025-09-15
+PAT0485,I10,Essential hypertension,2025-06-15
+PAT0486,I50.9,Heart failure,2025-01-01
+PAT0487,I25.1,Atherosclerotic heart disease,2025-01-18
+PAT0488,I25.1,Atherosclerotic heart disease,2025-11-14
+PAT0488,I50.9,Heart failure,2025-05-02
+PAT0489,I50.9,Heart failure,2025-02-21
+PAT0490,E78.5,Dyslipidaemia,2025-06-25
+PAT0491,I10,Essential hypertension,2025-01-31
+PAT0491,I50.9,Heart failure,2025-11-01
+PAT0492,I50.9,Heart failure,2025-04-04
+PAT0493,I50.9,Heart failure,2025-01-28
+PAT0493,I10,Essential hypertension,2025-01-13
+PAT0494,I25.1,Atherosclerotic heart disease,2025-11-03
+PAT0494,E78.5,Dyslipidaemia,2025-07-02
+PAT0495,I50.9,Heart failure,2025-05-09
+PAT0496,I25.1,Atherosclerotic heart disease,2025-08-31
+PAT0496,E78.5,Dyslipidaemia,2025-06-13
+PAT0497,I10,Essential hypertension,2025-05-27
+PAT0498,I25.1,Atherosclerotic heart disease,2025-05-02
+PAT0499,I50.9,Heart failure,2025-06-23
+PAT0499,I10,Essential hypertension,2025-12-27
+PAT0500,I10,Essential hypertension,2025-11-22
+PAT0501,E78.5,Dyslipidaemia,2025-11-23
+PAT0501,I50.9,Heart failure,2025-08-01
+PAT0502,I10,Essential hypertension,2025-01-16
+PAT0503,I25.1,Atherosclerotic heart disease,2025-04-29
+PAT0503,I10,Essential hypertension,2025-02-23
+PAT0504,I10,Essential hypertension,2025-05-26
+PAT0505,E78.5,Dyslipidaemia,2025-01-06
+PAT0505,I25.1,Atherosclerotic heart disease,2025-02-14
+PAT0506,I50.9,Heart failure,2025-10-23
+PAT0506,E78.5,Dyslipidaemia,2025-11-18
+PAT0507,I50.9,Heart failure,2025-02-07
+PAT0507,E78.5,Dyslipidaemia,2025-08-14
+PAT0508,I50.9,Heart failure,2025-10-09
+PAT0509,E78.5,Dyslipidaemia,2025-05-10
+PAT0510,I25.1,Atherosclerotic heart disease,2025-05-01
+PAT0510,I50.9,Heart failure,2025-05-24
+PAT0511,E78.5,Dyslipidaemia,2025-12-31
+PAT0511,I50.9,Heart failure,2025-10-27
+PAT0512,I25.1,Atherosclerotic heart disease,2025-05-19
+PAT0513,I25.1,Atherosclerotic heart disease,2025-02-24
+PAT0513,I10,Essential hypertension,2025-02-21
+PAT0514,E78.5,Dyslipidaemia,2025-11-23
+PAT0514,I50.9,Heart failure,2025-09-20
+PAT0515,I10,Essential hypertension,2025-08-26
+PAT0516,E78.5,Dyslipidaemia,2025-08-27
+PAT0516,I50.9,Heart failure,2025-11-05
+PAT0517,I25.1,Atherosclerotic heart disease,2025-03-11
+PAT0518,E78.5,Dyslipidaemia,2025-08-19
+PAT0518,I10,Essential hypertension,2025-05-19
+PAT0519,I50.9,Heart failure,2025-02-22
+PAT0519,E78.5,Dyslipidaemia,2025-09-04
+PAT0520,E78.5,Dyslipidaemia,2025-06-24
+PAT0521,I50.9,Heart failure,2025-01-04
+PAT0521,I25.1,Atherosclerotic heart disease,2025-05-14
+PAT0522,I10,Essential hypertension,2025-05-30
+PAT0522,E78.5,Dyslipidaemia,2025-01-04
+PAT0523,I25.1,Atherosclerotic heart disease,2025-11-11
+PAT0524,I25.1,Atherosclerotic heart disease,2025-11-24
+PAT0524,I10,Essential hypertension,2025-12-24
+PAT0525,I10,Essential hypertension,2025-09-02
+PAT0526,E78.5,Dyslipidaemia,2025-10-31
+PAT0526,I10,Essential hypertension,2025-06-09
+PAT0527,E78.5,Dyslipidaemia,2025-01-30
+PAT0528,I10,Essential hypertension,2025-06-03
+PAT0528,E78.5,Dyslipidaemia,2025-07-19
+PAT0529,I25.1,Atherosclerotic heart disease,2025-07-14
+PAT0529,I10,Essential hypertension,2025-03-01
+PAT0530,E78.5,Dyslipidaemia,2025-03-20
+PAT0531,E78.5,Dyslipidaemia,2025-10-21
+PAT0531,I25.1,Atherosclerotic heart disease,2025-02-09
+PAT0532,I10,Essential hypertension,2025-05-12
+PAT0533,I25.1,Atherosclerotic heart disease,2025-01-02
+PAT0533,E78.5,Dyslipidaemia,2025-05-07
+PAT0534,I10,Essential hypertension,2025-10-30
+PAT0535,I10,Essential hypertension,2025-08-28
+PAT0536,I50.9,Heart failure,2025-06-27
+PAT0537,E78.5,Dyslipidaemia,2025-12-23
+PAT0537,I10,Essential hypertension,2025-07-25
+PAT0538,E78.5,Dyslipidaemia,2025-06-05
+PAT0538,I25.1,Atherosclerotic heart disease,2025-02-12
+PAT0539,I25.1,Atherosclerotic heart disease,2025-05-03
+PAT0540,I25.1,Atherosclerotic heart disease,2025-03-06
+PAT0541,I10,Essential hypertension,2025-06-25
+PAT0542,I10,Essential hypertension,2025-11-04
+PAT0542,I25.1,Atherosclerotic heart disease,2025-05-31
+PAT0543,I10,Essential hypertension,2025-09-27
+PAT0544,I25.1,Atherosclerotic heart disease,2025-06-22
+PAT0545,I10,Essential hypertension,2025-03-07
+PAT0545,I50.9,Heart failure,2025-01-26
+PAT0546,I25.1,Atherosclerotic heart disease,2025-07-17
+PAT0546,I10,Essential hypertension,2025-01-31
+PAT0547,I10,Essential hypertension,2025-09-04
+PAT0548,I10,Essential hypertension,2025-02-14
+PAT0548,I50.9,Heart failure,2025-10-22
+PAT0549,I50.9,Heart failure,2025-05-18
+PAT0549,I25.1,Atherosclerotic heart disease,2025-06-20
+PAT0550,I25.1,Atherosclerotic heart disease,2025-10-19
+PAT0550,I50.9,Heart failure,2025-08-23
+PAT0551,I50.9,Heart failure,2025-10-23
+PAT0551,I25.1,Atherosclerotic heart disease,2025-07-17
+PAT0552,I25.1,Atherosclerotic heart disease,2025-04-14
+PAT0553,E78.5,Dyslipidaemia,2025-10-23
+PAT0554,I10,Essential hypertension,2025-05-12
+PAT0555,I10,Essential hypertension,2025-12-11
+PAT0555,I25.1,Atherosclerotic heart disease,2025-10-13
+PAT0556,I50.9,Heart failure,2025-11-24
+PAT0557,E78.5,Dyslipidaemia,2025-05-26
+PAT0557,I10,Essential hypertension,2025-03-07
+PAT0558,I50.9,Heart failure,2025-03-29
+PAT0559,E78.5,Dyslipidaemia,2025-01-25
+PAT0560,E78.5,Dyslipidaemia,2025-01-28
+PAT0560,I25.1,Atherosclerotic heart disease,2025-06-20
+PAT0561,I50.9,Heart failure,2025-03-14
+PAT0561,E78.5,Dyslipidaemia,2025-11-23
+PAT0562,E78.5,Dyslipidaemia,2025-03-02
+PAT0563,E78.5,Dyslipidaemia,2025-09-13
+PAT0564,E78.5,Dyslipidaemia,2025-12-07
+PAT0564,I10,Essential hypertension,2025-02-24
+PAT0565,E78.5,Dyslipidaemia,2025-09-03
+PAT0565,I25.1,Atherosclerotic heart disease,2025-02-05
+PAT0566,I25.1,Atherosclerotic heart disease,2025-11-02
+PAT0567,I25.1,Atherosclerotic heart disease,2025-12-24
+PAT0568,I50.9,Heart failure,2025-09-27
+PAT0568,I10,Essential hypertension,2025-12-05
+PAT0569,E78.5,Dyslipidaemia,2025-09-26
+PAT0570,E78.5,Dyslipidaemia,2025-10-24
+PAT0570,I25.1,Atherosclerotic heart disease,2025-08-23
+PAT0571,I50.9,Heart failure,2025-02-15
+PAT0572,E78.5,Dyslipidaemia,2025-07-27
+PAT0572,I50.9,Heart failure,2025-12-11
+PAT0573,E78.5,Dyslipidaemia,2025-07-27
+PAT0574,I25.1,Atherosclerotic heart disease,2025-07-18
+PAT0574,E78.5,Dyslipidaemia,2025-10-26
+PAT0575,I25.1,Atherosclerotic heart disease,2025-06-23
+PAT0575,I50.9,Heart failure,2025-07-08
+PAT0576,I10,Essential hypertension,2025-07-16
+PAT0576,I25.1,Atherosclerotic heart disease,2025-05-27
+PAT0577,I25.1,Atherosclerotic heart disease,2025-11-10
+PAT0577,I50.9,Heart failure,2025-11-04
+PAT0578,I25.1,Atherosclerotic heart disease,2025-11-29
+PAT0579,I10,Essential hypertension,2025-01-29
+PAT0579,E78.5,Dyslipidaemia,2025-02-02
+PAT0580,E78.5,Dyslipidaemia,2025-12-04
+PAT0580,I25.1,Atherosclerotic heart disease,2025-10-17
+PAT0581,I10,Essential hypertension,2025-01-07
+PAT0581,I50.9,Heart failure,2025-05-28
+PAT0582,E78.5,Dyslipidaemia,2025-01-27
+PAT0582,I50.9,Heart failure,2025-03-10
+PAT0583,E78.5,Dyslipidaemia,2025-02-19
+PAT0583,I50.9,Heart failure,2025-07-13
+PAT0584,I25.1,Atherosclerotic heart disease,2025-03-14
+PAT0584,I50.9,Heart failure,2025-02-27
+PAT0585,I10,Essential hypertension,2025-09-01
+PAT0585,I50.9,Heart failure,2025-08-18
+PAT0586,I10,Essential hypertension,2025-02-17
+PAT0587,I25.1,Atherosclerotic heart disease,2025-04-03
+PAT0588,I50.9,Heart failure,2025-03-04
+PAT0589,E78.5,Dyslipidaemia,2025-12-13
+PAT0590,I10,Essential hypertension,2025-08-02
+PAT0591,E78.5,Dyslipidaemia,2025-01-05
+PAT0591,I50.9,Heart failure,2025-03-08
+PAT0592,I10,Essential hypertension,2025-04-14
+PAT0592,I25.1,Atherosclerotic heart disease,2025-10-02
+PAT0593,I10,Essential hypertension,2025-11-10
+PAT0594,I25.1,Atherosclerotic heart disease,2025-03-14
+PAT0595,I10,Essential hypertension,2025-11-19
+PAT0595,E78.5,Dyslipidaemia,2025-07-17
+PAT0596,I25.1,Atherosclerotic heart disease,2025-03-16
+PAT0596,I10,Essential hypertension,2025-06-28
+PAT0597,E78.5,Dyslipidaemia,2025-10-11
+PAT0598,E78.5,Dyslipidaemia,2025-02-12
+PAT0599,I25.1,Atherosclerotic heart disease,2025-06-04
+PAT0599,I10,Essential hypertension,2025-10-17
+PAT0600,I25.1,Atherosclerotic heart disease,2025-04-19
+PAT0600,I10,Essential hypertension,2025-07-23
+PAT0601,I25.1,Atherosclerotic heart disease,2025-03-03
+PAT0602,E78.5,Dyslipidaemia,2025-05-14
+PAT0602,I50.9,Heart failure,2025-04-05
+PAT0603,I10,Essential hypertension,2025-08-26
+PAT0603,I50.9,Heart failure,2025-09-03
+PAT0604,I10,Essential hypertension,2025-10-21
+PAT0605,E78.5,Dyslipidaemia,2025-12-08
+PAT0606,I50.9,Heart failure,2025-07-06
+PAT0607,I10,Essential hypertension,2025-10-19
+PAT0608,I50.9,Heart failure,2025-07-27
+PAT0609,I10,Essential hypertension,2025-01-29
+PAT0610,I25.1,Atherosclerotic heart disease,2025-10-19
+PAT0611,I25.1,Atherosclerotic heart disease,2025-07-21
+PAT0611,I10,Essential hypertension,2025-03-01
+PAT0612,I50.9,Heart failure,2025-09-26
+PAT0612,I10,Essential hypertension,2025-07-11
+PAT0613,I25.1,Atherosclerotic heart disease,2025-06-05
+PAT0614,I50.9,Heart failure,2025-03-13
+PAT0615,I10,Essential hypertension,2025-05-28
+PAT0616,I50.9,Heart failure,2025-09-02
+PAT0617,I10,Essential hypertension,2025-01-17
+PAT0617,I25.1,Atherosclerotic heart disease,2025-01-15
+PAT0618,E78.5,Dyslipidaemia,2025-07-20
+PAT0619,I50.9,Heart failure,2025-12-15
+PAT0619,E78.5,Dyslipidaemia,2025-09-27
+PAT0620,E78.5,Dyslipidaemia,2025-02-24
+PAT0620,I50.9,Heart failure,2025-08-13
+PAT0621,E78.5,Dyslipidaemia,2025-04-14
+PAT0622,I10,Essential hypertension,2025-10-14
+PAT0623,I10,Essential hypertension,2025-08-16
+PAT0624,E78.5,Dyslipidaemia,2025-12-19
+PAT0625,I10,Essential hypertension,2025-06-17
+PAT0626,I25.1,Atherosclerotic heart disease,2025-07-06
+PAT0626,E78.5,Dyslipidaemia,2025-07-30
+PAT0627,I25.1,Atherosclerotic heart disease,2025-11-29
+PAT0627,E78.5,Dyslipidaemia,2025-08-20
+PAT0628,I10,Essential hypertension,2025-07-22
+PAT0628,I25.1,Atherosclerotic heart disease,2025-04-13
+PAT0629,I25.1,Atherosclerotic heart disease,2025-11-01
+PAT0630,I25.1,Atherosclerotic heart disease,2025-10-02
+PAT0630,I50.9,Heart failure,2025-06-03
+PAT0631,I10,Essential hypertension,2025-01-21
+PAT0632,I25.1,Atherosclerotic heart disease,2025-12-11
+PAT0632,I50.9,Heart failure,2025-12-02
+PAT0633,I10,Essential hypertension,2025-06-08
+PAT0633,I50.9,Heart failure,2025-09-21
+PAT0634,E78.5,Dyslipidaemia,2025-12-14
+PAT0635,E78.5,Dyslipidaemia,2025-04-21
+PAT0636,I50.9,Heart failure,2025-01-26
+PAT0636,E78.5,Dyslipidaemia,2025-12-01
+PAT0637,I50.9,Heart failure,2025-09-11
+PAT0638,I25.1,Atherosclerotic heart disease,2025-03-25
+PAT0639,E78.5,Dyslipidaemia,2025-07-27
+PAT0640,I10,Essential hypertension,2025-05-07
+PAT0640,I25.1,Atherosclerotic heart disease,2025-01-06
+PAT0641,I10,Essential hypertension,2025-01-14
+PAT0641,I25.1,Atherosclerotic heart disease,2025-08-21
+PAT0642,I50.9,Heart failure,2025-04-12
+PAT0643,E78.5,Dyslipidaemia,2025-12-19
+PAT0643,I50.9,Heart failure,2025-01-30
+PAT0644,E78.5,Dyslipidaemia,2025-05-01
+PAT0645,I10,Essential hypertension,2025-08-27
+PAT0646,I10,Essential hypertension,2025-06-27
+PAT0646,I25.1,Atherosclerotic heart disease,2025-08-14
+PAT0647,E78.5,Dyslipidaemia,2025-07-28
+PAT0647,I50.9,Heart failure,2025-02-16
+PAT0648,I10,Essential hypertension,2025-04-21
+PAT0648,I25.1,Atherosclerotic heart disease,2025-10-07
+PAT0649,E78.5,Dyslipidaemia,2025-11-20
+PAT0650,I25.1,Atherosclerotic heart disease,2025-04-07
+PAT0650,E78.5,Dyslipidaemia,2025-01-26
+PAT0651,I50.9,Heart failure,2025-08-18
+PAT0651,I10,Essential hypertension,2025-11-01
+PAT0652,I10,Essential hypertension,2025-11-30
+PAT0653,I10,Essential hypertension,2025-07-02
+PAT0653,E78.5,Dyslipidaemia,2025-12-26
+PAT0654,I50.9,Heart failure,2025-11-03
+PAT0654,I25.1,Atherosclerotic heart disease,2025-04-07
+PAT0655,I25.1,Atherosclerotic heart disease,2025-04-05
+PAT0656,I10,Essential hypertension,2025-09-18
+PAT0656,E78.5,Dyslipidaemia,2025-10-14
+PAT0657,I25.1,Atherosclerotic heart disease,2025-08-07
+PAT0658,I25.1,Atherosclerotic heart disease,2025-11-09
+PAT0659,I50.9,Heart failure,2025-12-25
+PAT0660,I25.1,Atherosclerotic heart disease,2025-12-19
+PAT0660,E78.5,Dyslipidaemia,2025-07-03
+PAT0661,I50.9,Heart failure,2025-05-31
+PAT0662,I25.1,Atherosclerotic heart disease,2025-06-07
+PAT0662,I50.9,Heart failure,2025-01-30
+PAT0663,I25.1,Atherosclerotic heart disease,2025-07-24
+PAT0664,I10,Essential hypertension,2025-08-09
+PAT0664,I50.9,Heart failure,2025-05-09
+PAT0665,I10,Essential hypertension,2025-04-17
+PAT0666,I25.1,Atherosclerotic heart disease,2025-08-18
+PAT0667,I25.1,Atherosclerotic heart disease,2025-06-27
+PAT0668,E78.5,Dyslipidaemia,2025-11-02
+PAT0669,I50.9,Heart failure,2025-07-29
+PAT0670,E78.5,Dyslipidaemia,2025-10-15
+PAT0671,I10,Essential hypertension,2025-05-02
+PAT0672,I10,Essential hypertension,2025-11-24
+PAT0672,I25.1,Atherosclerotic heart disease,2025-01-17
+PAT0673,I50.9,Heart failure,2025-07-18
+PAT0674,I50.9,Heart failure,2025-08-16
+PAT0675,I25.1,Atherosclerotic heart disease,2025-04-28
+PAT0676,I50.9,Heart failure,2025-10-06
+PAT0677,E78.5,Dyslipidaemia,2025-07-31
+PAT0677,I10,Essential hypertension,2025-11-29
+PAT0678,I10,Essential hypertension,2025-12-30
+PAT0678,I50.9,Heart failure,2025-08-02
+PAT0679,I25.1,Atherosclerotic heart disease,2025-10-30
+PAT0679,E78.5,Dyslipidaemia,2025-01-21
+PAT0680,I50.9,Heart failure,2025-02-16
+PAT0681,E78.5,Dyslipidaemia,2025-05-18
+PAT0682,I50.9,Heart failure,2025-07-08
+PAT0682,E78.5,Dyslipidaemia,2025-06-20
+PAT0683,E78.5,Dyslipidaemia,2025-12-10
+PAT0683,I25.1,Atherosclerotic heart disease,2025-10-26
+PAT0684,E78.5,Dyslipidaemia,2025-06-16
+PAT0684,I50.9,Heart failure,2025-06-10
+PAT0685,I50.9,Heart failure,2025-03-27
+PAT0686,I25.1,Atherosclerotic heart disease,2025-02-24
+PAT0686,E78.5,Dyslipidaemia,2025-03-19
+PAT0687,E78.5,Dyslipidaemia,2025-03-13
+PAT0687,I25.1,Atherosclerotic heart disease,2025-10-03
+PAT0688,I25.1,Atherosclerotic heart disease,2025-09-22
+PAT0688,I10,Essential hypertension,2025-12-09
+PAT0689,E78.5,Dyslipidaemia,2025-11-19
+PAT0690,E78.5,Dyslipidaemia,2025-12-23
+PAT0691,E78.5,Dyslipidaemia,2025-09-19
+PAT0691,I25.1,Atherosclerotic heart disease,2025-05-04
+PAT0692,I25.1,Atherosclerotic heart disease,2025-03-19
+PAT0693,E78.5,Dyslipidaemia,2025-04-27
+PAT0694,E78.5,Dyslipidaemia,2025-02-16
+PAT0694,I25.1,Atherosclerotic heart disease,2025-07-02
+PAT0695,I50.9,Heart failure,2025-12-14
+PAT0695,E78.5,Dyslipidaemia,2025-10-06
+PAT0696,I50.9,Heart failure,2025-09-28
+PAT0696,E78.5,Dyslipidaemia,2025-10-08
+PAT0697,I10,Essential hypertension,2025-08-14
+PAT0697,I50.9,Heart failure,2025-11-15
+PAT0698,I50.9,Heart failure,2025-01-26
+PAT0699,I50.9,Heart failure,2025-05-10
+PAT0699,I10,Essential hypertension,2025-04-26
+PAT0700,I10,Essential hypertension,2025-07-11
+PAT0700,E78.5,Dyslipidaemia,2025-03-29
+PAT0701,I10,Essential hypertension,2025-11-22
+PAT0702,I50.9,Heart failure,2025-01-16
+PAT0702,I10,Essential hypertension,2025-05-29
+PAT0703,I25.1,Atherosclerotic heart disease,2025-11-14
+PAT0703,E78.5,Dyslipidaemia,2025-02-27
+PAT0704,I25.1,Atherosclerotic heart disease,2025-05-03
+PAT0705,I50.9,Heart failure,2025-06-04
+PAT0705,I10,Essential hypertension,2025-09-19
+PAT0706,E78.5,Dyslipidaemia,2025-06-24
+PAT0706,I50.9,Heart failure,2025-10-28
+PAT0707,I50.9,Heart failure,2025-11-07
+PAT0708,I50.9,Heart failure,2025-02-17
+PAT0709,E78.5,Dyslipidaemia,2025-07-24
+PAT0709,I25.1,Atherosclerotic heart disease,2025-06-25
+PAT0710,I25.1,Atherosclerotic heart disease,2025-10-08
+PAT0710,I10,Essential hypertension,2025-06-15
+PAT0711,I50.9,Heart failure,2025-11-08
+PAT0711,I10,Essential hypertension,2025-04-25
+PAT0712,I50.9,Heart failure,2025-11-27
+PAT0713,E78.5,Dyslipidaemia,2025-05-11
+PAT0713,I25.1,Atherosclerotic heart disease,2025-01-02
+PAT0714,I10,Essential hypertension,2025-06-17
+PAT0714,I50.9,Heart failure,2025-10-21
+PAT0715,I50.9,Heart failure,2025-01-03
+PAT0716,I25.1,Atherosclerotic heart disease,2025-08-19
+PAT0717,I50.9,Heart failure,2025-04-10
+PAT0717,I25.1,Atherosclerotic heart disease,2025-08-19
+PAT0718,E78.5,Dyslipidaemia,2025-10-21
+PAT0718,I50.9,Heart failure,2025-12-23
+PAT0719,I25.1,Atherosclerotic heart disease,2025-11-26
+PAT0720,E78.5,Dyslipidaemia,2025-11-15
+PAT0720,I50.9,Heart failure,2025-06-15
+PAT0721,I10,Essential hypertension,2025-07-18
+PAT0722,I10,Essential hypertension,2025-12-06
+PAT0723,I10,Essential hypertension,2025-10-21
+PAT0723,I50.9,Heart failure,2025-05-25
+PAT0724,E78.5,Dyslipidaemia,2025-06-25
+PAT0724,I25.1,Atherosclerotic heart disease,2025-09-25
+PAT0725,I25.1,Atherosclerotic heart disease,2025-07-15
+PAT0726,E78.5,Dyslipidaemia,2025-01-16
+PAT0727,I50.9,Heart failure,2025-10-27
+PAT0728,I10,Essential hypertension,2025-09-12
+PAT0728,I25.1,Atherosclerotic heart disease,2025-04-28
+PAT0729,I50.9,Heart failure,2025-10-06
+PAT0730,E78.5,Dyslipidaemia,2025-02-14
+PAT0730,I10,Essential hypertension,2025-07-13
+PAT0731,E78.5,Dyslipidaemia,2025-08-12
+PAT0732,I10,Essential hypertension,2025-05-19
+PAT0732,I25.1,Atherosclerotic heart disease,2025-07-13
+PAT0733,I10,Essential hypertension,2025-02-13
+PAT0734,I25.1,Atherosclerotic heart disease,2025-03-01
+PAT0734,I50.9,Heart failure,2025-04-09
+PAT0735,I10,Essential hypertension,2025-09-25
+PAT0736,I10,Essential hypertension,2025-09-22
+PAT0736,I50.9,Heart failure,2025-02-13
+PAT0737,I25.1,Atherosclerotic heart disease,2025-10-02
+PAT0738,I50.9,Heart failure,2025-01-02
+PAT0738,I25.1,Atherosclerotic heart disease,2025-05-04
+PAT0739,I10,Essential hypertension,2025-09-21
+PAT0739,I50.9,Heart failure,2025-01-18
+PAT0740,I50.9,Heart failure,2025-06-03
+PAT0741,I25.1,Atherosclerotic heart disease,2025-08-31
+PAT0742,I50.9,Heart failure,2025-10-23
+PAT0742,E78.5,Dyslipidaemia,2025-05-18
+PAT0743,E78.5,Dyslipidaemia,2025-09-03
+PAT0744,I25.1,Atherosclerotic heart disease,2025-01-31
+PAT0744,I10,Essential hypertension,2025-12-11
+PAT0745,I50.9,Heart failure,2025-04-26
+PAT0746,E78.5,Dyslipidaemia,2025-04-16
+PAT0746,I50.9,Heart failure,2025-01-24
+PAT0747,I10,Essential hypertension,2025-05-04
+PAT0748,I10,Essential hypertension,2025-09-02
+PAT0749,I10,Essential hypertension,2025-08-06
+PAT0750,I10,Essential hypertension,2025-03-17
+PAT0751,I50.9,Heart failure,2025-05-25
+PAT0752,I25.1,Atherosclerotic heart disease,2025-12-04
+PAT0752,I10,Essential hypertension,2025-07-07
+PAT0753,I50.9,Heart failure,2025-08-25
+PAT0753,E78.5,Dyslipidaemia,2025-11-27
+PAT0754,I50.9,Heart failure,2025-04-03
+PAT0754,E78.5,Dyslipidaemia,2025-02-06
+PAT0755,I50.9,Heart failure,2025-12-20
+PAT0755,E78.5,Dyslipidaemia,2025-10-31
+PAT0756,I10,Essential hypertension,2025-05-14
+PAT0757,I50.9,Heart failure,2025-08-08
+PAT0757,I25.1,Atherosclerotic heart disease,2025-06-02
+PAT0758,I25.1,Atherosclerotic heart disease,2025-02-12
+PAT0759,I50.9,Heart failure,2025-12-14
+PAT0760,E78.5,Dyslipidaemia,2025-09-02
+PAT0761,I10,Essential hypertension,2025-02-06
+PAT0761,I50.9,Heart failure,2025-08-24
+PAT0762,I50.9,Heart failure,2025-05-07
+PAT0762,I25.1,Atherosclerotic heart disease,2025-10-24
+PAT0763,I50.9,Heart failure,2025-05-27
+PAT0764,I50.9,Heart failure,2025-11-01
+PAT0764,I25.1,Atherosclerotic heart disease,2025-08-29
+PAT0765,I10,Essential hypertension,2025-04-23
+PAT0765,I50.9,Heart failure,2025-05-21
+PAT0766,I10,Essential hypertension,2025-01-28
+PAT0766,E78.5,Dyslipidaemia,2025-02-02
+PAT0767,I25.1,Atherosclerotic heart disease,2025-03-26
+PAT0768,I50.9,Heart failure,2025-09-05
+PAT0768,I10,Essential hypertension,2025-05-04
+PAT0769,I50.9,Heart failure,2025-08-18
+PAT0770,E78.5,Dyslipidaemia,2025-11-22
+PAT0770,I25.1,Atherosclerotic heart disease,2025-07-08
+PAT0771,E78.5,Dyslipidaemia,2025-01-18
+PAT0771,I50.9,Heart failure,2025-10-10
+PAT0772,E78.5,Dyslipidaemia,2025-07-23
+PAT0773,I25.1,Atherosclerotic heart disease,2025-04-07
+PAT0773,E78.5,Dyslipidaemia,2025-04-14
+PAT0774,I10,Essential hypertension,2025-05-29
+PAT0774,E78.5,Dyslipidaemia,2025-11-30
+PAT0775,I10,Essential hypertension,2025-08-17
+PAT0775,I50.9,Heart failure,2025-09-20
+PAT0776,I50.9,Heart failure,2025-02-26
+PAT0777,I10,Essential hypertension,2025-07-04
+PAT0777,I25.1,Atherosclerotic heart disease,2025-01-13
+PAT0778,I50.9,Heart failure,2025-06-02
+PAT0779,I25.1,Atherosclerotic heart disease,2025-02-03
+PAT0779,I10,Essential hypertension,2025-07-16
+PAT0780,I25.1,Atherosclerotic heart disease,2025-10-22
+PAT0780,I50.9,Heart failure,2025-07-07
+PAT0781,I50.9,Heart failure,2025-10-01
+PAT0782,E78.5,Dyslipidaemia,2025-10-08
+PAT0782,I50.9,Heart failure,2025-12-16
+PAT0783,I10,Essential hypertension,2025-06-18
+PAT0784,I50.9,Heart failure,2025-06-29
+PAT0785,I10,Essential hypertension,2025-12-18
+PAT0786,I25.1,Atherosclerotic heart disease,2025-11-25
+PAT0787,E78.5,Dyslipidaemia,2025-06-10
+PAT0787,I25.1,Atherosclerotic heart disease,2025-11-10
+PAT0788,I50.9,Heart failure,2025-03-27
+PAT0788,E78.5,Dyslipidaemia,2025-10-17
+PAT0789,I10,Essential hypertension,2025-05-30
+PAT0790,I50.9,Heart failure,2025-04-29
+PAT0791,I25.1,Atherosclerotic heart disease,2025-01-23
+PAT0791,E78.5,Dyslipidaemia,2025-03-05
+PAT0792,I25.1,Atherosclerotic heart disease,2025-07-03
+PAT0792,E78.5,Dyslipidaemia,2025-06-04
+PAT0793,I25.1,Atherosclerotic heart disease,2025-02-19
+PAT0793,E78.5,Dyslipidaemia,2025-03-30
+PAT0794,E78.5,Dyslipidaemia,2025-06-04
+PAT0795,I50.9,Heart failure,2025-05-01
+PAT0796,E78.5,Dyslipidaemia,2025-09-28
+PAT0797,I50.9,Heart failure,2025-01-28
+PAT0797,I25.1,Atherosclerotic heart disease,2025-06-08
+PAT0798,I50.9,Heart failure,2025-04-28
+PAT0798,I10,Essential hypertension,2025-07-29
+PAT0799,I10,Essential hypertension,2025-10-08
+PAT0799,I25.1,Atherosclerotic heart disease,2025-03-09
+PAT0800,E78.5,Dyslipidaemia,2025-04-10
+PAT0800,I10,Essential hypertension,2025-01-18
+PAT0801,I10,Essential hypertension,2025-06-23
+PAT0801,I50.9,Heart failure,2025-02-14
+PAT0802,I10,Essential hypertension,2025-05-19
+PAT0803,I50.9,Heart failure,2025-07-17
+PAT0803,E78.5,Dyslipidaemia,2025-05-26
+PAT0804,I10,Essential hypertension,2025-04-17
+PAT0805,I10,Essential hypertension,2025-01-09
+PAT0806,E78.5,Dyslipidaemia,2025-11-19
+PAT0807,E78.5,Dyslipidaemia,2025-04-01
+PAT0808,I10,Essential hypertension,2025-08-19
+PAT0808,I50.9,Heart failure,2025-07-21
+PAT0809,E78.5,Dyslipidaemia,2025-05-31
+PAT0809,I10,Essential hypertension,2025-04-28
+PAT0810,I10,Essential hypertension,2025-10-29
+PAT0810,E78.5,Dyslipidaemia,2025-04-21
+PAT0811,I10,Essential hypertension,2025-08-22
+PAT0811,I50.9,Heart failure,2025-05-05
+PAT0812,I50.9,Heart failure,2025-12-14
+PAT0813,E78.5,Dyslipidaemia,2025-03-15
+PAT0814,I10,Essential hypertension,2025-04-13
+PAT0815,I50.9,Heart failure,2025-05-17
+PAT0816,I10,Essential hypertension,2025-02-23
+PAT0817,E78.5,Dyslipidaemia,2025-08-03
+PAT0818,I25.1,Atherosclerotic heart disease,2025-11-30
+PAT0819,I25.1,Atherosclerotic heart disease,2025-12-29
+PAT0819,I10,Essential hypertension,2025-06-05
+PAT0820,I10,Essential hypertension,2025-02-11
+PAT0820,I50.9,Heart failure,2025-02-09
+PAT0821,E78.5,Dyslipidaemia,2025-09-11
+PAT0822,I10,Essential hypertension,2025-11-20
+PAT0822,I25.1,Atherosclerotic heart disease,2025-04-22
+PAT0823,I25.1,Atherosclerotic heart disease,2025-06-03
+PAT0824,I50.9,Heart failure,2025-01-23
+PAT0825,E78.5,Dyslipidaemia,2025-04-04
+PAT0825,I50.9,Heart failure,2025-11-03
+PAT0826,I25.1,Atherosclerotic heart disease,2025-01-24
+PAT0827,I50.9,Heart failure,2025-07-20
+PAT0827,I10,Essential hypertension,2025-10-24
+PAT0828,I10,Essential hypertension,2025-10-10
+PAT0828,I25.1,Atherosclerotic heart disease,2025-04-07
+PAT0829,E78.5,Dyslipidaemia,2025-04-16
+PAT0830,I10,Essential hypertension,2025-10-21
+PAT0831,I10,Essential hypertension,2025-11-13
+PAT0831,I25.1,Atherosclerotic heart disease,2025-06-04
+PAT0832,I25.1,Atherosclerotic heart disease,2025-11-24
+PAT0832,I50.9,Heart failure,2025-11-28
+PAT0833,I25.1,Atherosclerotic heart disease,2025-06-04
+PAT0833,I50.9,Heart failure,2025-05-17
+PAT0834,I25.1,Atherosclerotic heart disease,2025-08-29
+PAT0835,I50.9,Heart failure,2025-07-30
+PAT0835,I25.1,Atherosclerotic heart disease,2025-02-19
+PAT0836,I25.1,Atherosclerotic heart disease,2025-04-15
+PAT0837,I25.1,Atherosclerotic heart disease,2025-08-15
+PAT0838,I25.1,Atherosclerotic heart disease,2025-09-19
+PAT0839,I25.1,Atherosclerotic heart disease,2025-05-11
+PAT0839,E78.5,Dyslipidaemia,2025-11-22
+PAT0840,I10,Essential hypertension,2025-05-03
+PAT0841,I50.9,Heart failure,2025-06-30
+PAT0842,E78.5,Dyslipidaemia,2025-11-21
+PAT0842,I10,Essential hypertension,2025-12-23
+PAT0843,I10,Essential hypertension,2025-02-15
+PAT0843,I25.1,Atherosclerotic heart disease,2025-07-14
+PAT0844,E78.5,Dyslipidaemia,2025-06-16
+PAT0844,I25.1,Atherosclerotic heart disease,2025-05-11
+PAT0845,I25.1,Atherosclerotic heart disease,2025-11-11
+PAT0846,I10,Essential hypertension,2025-06-11
+PAT0846,E78.5,Dyslipidaemia,2025-05-04
+PAT0847,I10,Essential hypertension,2025-12-12
+PAT0847,E78.5,Dyslipidaemia,2025-12-26
+PAT0848,E78.5,Dyslipidaemia,2025-04-14
+PAT0849,I25.1,Atherosclerotic heart disease,2025-09-11
+PAT0850,E78.5,Dyslipidaemia,2025-10-21
+PAT0850,I25.1,Atherosclerotic heart disease,2025-06-09
+PAT0851,I25.1,Atherosclerotic heart disease,2025-02-05
+PAT0852,I50.9,Heart failure,2025-07-26
+PAT0852,I25.1,Atherosclerotic heart disease,2025-01-27
+PAT0853,I50.9,Heart failure,2025-01-19
+PAT0854,E78.5,Dyslipidaemia,2025-12-13
+PAT0854,I25.1,Atherosclerotic heart disease,2025-01-08
+PAT0855,I50.9,Heart failure,2025-03-06
+PAT0855,I25.1,Atherosclerotic heart disease,2025-01-25
+PAT0856,I50.9,Heart failure,2025-11-25
+PAT0856,I10,Essential hypertension,2025-01-14
+PAT0857,I25.1,Atherosclerotic heart disease,2025-01-29
+PAT0858,I10,Essential hypertension,2025-05-25
+PAT0858,I25.1,Atherosclerotic heart disease,2025-12-17
+PAT0859,E78.5,Dyslipidaemia,2025-12-16
+PAT0859,I50.9,Heart failure,2025-05-30
+PAT0860,I50.9,Heart failure,2025-02-26
+PAT0860,I25.1,Atherosclerotic heart disease,2025-10-28
+PAT0861,E78.5,Dyslipidaemia,2025-01-15
+PAT0861,I50.9,Heart failure,2025-03-24
+PAT0862,I25.1,Atherosclerotic heart disease,2025-02-17
+PAT0863,E78.5,Dyslipidaemia,2025-03-14
+PAT0863,I25.1,Atherosclerotic heart disease,2025-07-04
+PAT0864,E78.5,Dyslipidaemia,2025-02-04
+PAT0865,I25.1,Atherosclerotic heart disease,2025-11-08
+PAT0866,I50.9,Heart failure,2025-03-21
+PAT0867,I10,Essential hypertension,2025-01-31
+PAT0868,I50.9,Heart failure,2025-04-07
+PAT0869,I50.9,Heart failure,2025-06-12
+PAT0870,I50.9,Heart failure,2025-04-13
+PAT0870,I10,Essential hypertension,2025-04-10
+PAT0871,I25.1,Atherosclerotic heart disease,2025-06-02
+PAT0872,I10,Essential hypertension,2025-03-03
+PAT0873,I10,Essential hypertension,2025-11-08
+PAT0874,I50.9,Heart failure,2025-06-16
+PAT0875,I50.9,Heart failure,2025-05-14
+PAT0875,I10,Essential hypertension,2025-09-18
+PAT0876,E78.5,Dyslipidaemia,2025-07-31
+PAT0877,E78.5,Dyslipidaemia,2025-07-21
+PAT0877,I10,Essential hypertension,2025-10-15
+PAT0878,E78.5,Dyslipidaemia,2025-02-22
+PAT0879,E78.5,Dyslipidaemia,2025-08-21
+PAT0879,I25.1,Atherosclerotic heart disease,2025-04-05
+PAT0880,E78.5,Dyslipidaemia,2025-08-16
+PAT0880,I25.1,Atherosclerotic heart disease,2025-07-25
+PAT0881,I25.1,Atherosclerotic heart disease,2025-12-27
+PAT0881,E78.5,Dyslipidaemia,2025-06-26
+PAT0882,I25.1,Atherosclerotic heart disease,2025-05-16
+PAT0883,I50.9,Heart failure,2025-09-27
+PAT0883,I25.1,Atherosclerotic heart disease,2025-03-08
+PAT0884,E78.5,Dyslipidaemia,2025-01-20
+PAT0884,I25.1,Atherosclerotic heart disease,2025-11-04
+PAT0885,I50.9,Heart failure,2025-01-17
+PAT0885,I25.1,Atherosclerotic heart disease,2025-10-08
+PAT0886,I10,Essential hypertension,2025-12-24
+PAT0887,I50.9,Heart failure,2025-03-01
+PAT0887,I25.1,Atherosclerotic heart disease,2025-10-03
+PAT0888,I50.9,Heart failure,2025-05-15
+PAT0888,I25.1,Atherosclerotic heart disease,2025-11-28
+PAT0889,I10,Essential hypertension,2025-01-12
+PAT0889,I50.9,Heart failure,2025-06-26
+PAT0890,I50.9,Heart failure,2025-09-04
+PAT0890,I25.1,Atherosclerotic heart disease,2025-05-30
+PAT0891,I50.9,Heart failure,2025-03-18
+PAT0892,I25.1,Atherosclerotic heart disease,2025-10-11
+PAT0892,I50.9,Heart failure,2025-10-22
+PAT0893,I10,Essential hypertension,2025-12-16
+PAT0894,E78.5,Dyslipidaemia,2025-05-27
+PAT0895,I10,Essential hypertension,2025-09-24
+PAT0895,E78.5,Dyslipidaemia,2025-11-19
+PAT0896,I50.9,Heart failure,2025-06-21
+PAT0896,I25.1,Atherosclerotic heart disease,2025-11-08
+PAT0897,I25.1,Atherosclerotic heart disease,2025-03-18
+PAT0898,E78.5,Dyslipidaemia,2025-04-14
+PAT0898,I10,Essential hypertension,2025-02-25
+PAT0899,I25.1,Atherosclerotic heart disease,2025-08-05
+PAT0900,I10,Essential hypertension,2025-11-21
+PAT0900,I25.1,Atherosclerotic heart disease,2025-09-20
+PAT0901,I50.9,Heart failure,2025-01-25
+PAT0901,E78.5,Dyslipidaemia,2025-07-20
+PAT0902,I50.9,Heart failure,2025-11-21
+PAT0902,E78.5,Dyslipidaemia,2025-10-04
+PAT0903,I25.1,Atherosclerotic heart disease,2025-06-23
+PAT0903,I10,Essential hypertension,2025-04-29
+PAT0904,E78.5,Dyslipidaemia,2025-01-08
+PAT0904,I10,Essential hypertension,2025-07-12
+PAT0905,E78.5,Dyslipidaemia,2025-10-19
+PAT0906,I10,Essential hypertension,2025-08-02
+PAT0906,E78.5,Dyslipidaemia,2025-12-20
+PAT0907,I50.9,Heart failure,2025-04-08
+PAT0908,E78.5,Dyslipidaemia,2025-11-23
+PAT0908,I10,Essential hypertension,2025-09-27
+PAT0909,I25.1,Atherosclerotic heart disease,2025-03-13
+PAT0910,I10,Essential hypertension,2025-05-11
+PAT0910,E78.5,Dyslipidaemia,2025-08-15
+PAT0911,I25.1,Atherosclerotic heart disease,2025-04-21
+PAT0912,E78.5,Dyslipidaemia,2025-10-29
+PAT0913,I10,Essential hypertension,2025-04-22
+PAT0914,I50.9,Heart failure,2025-08-18
+PAT0915,I25.1,Atherosclerotic heart disease,2025-05-20
+PAT0915,I50.9,Heart failure,2025-07-22
+PAT0916,I10,Essential hypertension,2025-05-06
+PAT0917,E78.5,Dyslipidaemia,2025-10-31
+PAT0918,I10,Essential hypertension,2025-10-28
+PAT0918,I25.1,Atherosclerotic heart disease,2025-12-14
+PAT0919,E78.5,Dyslipidaemia,2025-09-01
+PAT0920,E78.5,Dyslipidaemia,2025-02-27
+PAT0920,I50.9,Heart failure,2025-11-01
+PAT0921,E78.5,Dyslipidaemia,2025-05-27
+PAT0921,I25.1,Atherosclerotic heart disease,2025-03-09
+PAT0922,I25.1,Atherosclerotic heart disease,2025-11-01
+PAT0923,I25.1,Atherosclerotic heart disease,2025-12-17
+PAT0924,I50.9,Heart failure,2025-10-15
+PAT0924,I10,Essential hypertension,2025-03-15
+PAT0925,E78.5,Dyslipidaemia,2025-04-19
+PAT0926,I25.1,Atherosclerotic heart disease,2025-09-28
+PAT0926,E78.5,Dyslipidaemia,2025-08-12
+PAT0927,I25.1,Atherosclerotic heart disease,2025-01-04
+PAT0927,E78.5,Dyslipidaemia,2025-02-14
+PAT0928,I50.9,Heart failure,2025-07-05
+PAT0928,I25.1,Atherosclerotic heart disease,2025-01-31
+PAT0929,I50.9,Heart failure,2025-02-27
+PAT0929,E78.5,Dyslipidaemia,2025-08-13
+PAT0930,I50.9,Heart failure,2025-04-04
+PAT0930,E78.5,Dyslipidaemia,2025-04-21
+PAT0931,E78.5,Dyslipidaemia,2025-06-21
+PAT0932,I50.9,Heart failure,2025-08-25
+PAT0933,I10,Essential hypertension,2025-02-06
+PAT0933,I25.1,Atherosclerotic heart disease,2025-08-13
+PAT0934,I50.9,Heart failure,2025-09-25
+PAT0935,I10,Essential hypertension,2025-03-22
+PAT0936,E78.5,Dyslipidaemia,2025-01-17
+PAT0937,I25.1,Atherosclerotic heart disease,2025-04-24
+PAT0938,E78.5,Dyslipidaemia,2025-04-20
+PAT0938,I25.1,Atherosclerotic heart disease,2025-11-21
+PAT0939,I25.1,Atherosclerotic heart disease,2025-01-20
+PAT0940,I25.1,Atherosclerotic heart disease,2025-01-17
+PAT0941,E78.5,Dyslipidaemia,2025-11-02
+PAT0942,I10,Essential hypertension,2025-12-16
+PAT0943,I50.9,Heart failure,2025-11-15
+PAT0943,I10,Essential hypertension,2025-12-19
+PAT0944,I50.9,Heart failure,2025-08-23
+PAT0945,I10,Essential hypertension,2025-09-25
+PAT0946,E78.5,Dyslipidaemia,2025-10-08
+PAT0946,I25.1,Atherosclerotic heart disease,2025-01-11
+PAT0947,E78.5,Dyslipidaemia,2025-12-02
+PAT0947,I25.1,Atherosclerotic heart disease,2025-01-16
+PAT0948,E78.5,Dyslipidaemia,2025-01-09
+PAT0948,I10,Essential hypertension,2025-10-04
+PAT0949,I25.1,Atherosclerotic heart disease,2025-08-28
+PAT0950,I10,Essential hypertension,2025-02-14
+PAT0951,E78.5,Dyslipidaemia,2025-11-25
+PAT0952,I50.9,Heart failure,2025-03-11
+PAT0953,I10,Essential hypertension,2025-12-18
+PAT0953,I50.9,Heart failure,2025-09-01
+PAT0954,E78.5,Dyslipidaemia,2025-09-26
+PAT0954,I10,Essential hypertension,2025-05-14
+PAT0955,E78.5,Dyslipidaemia,2025-03-10
+PAT0956,I25.1,Atherosclerotic heart disease,2025-02-13
+PAT0956,E78.5,Dyslipidaemia,2025-09-02
+PAT0957,I50.9,Heart failure,2025-01-13
+PAT0957,I25.1,Atherosclerotic heart disease,2025-02-06
+PAT0958,I10,Essential hypertension,2025-04-06
+PAT0958,I50.9,Heart failure,2025-10-20
+PAT0959,I50.9,Heart failure,2025-01-08
+PAT0960,I10,Essential hypertension,2025-12-31
+PAT0961,I50.9,Heart failure,2025-10-29
+PAT0961,I10,Essential hypertension,2025-06-28
+PAT0962,E78.5,Dyslipidaemia,2025-09-22
+PAT0962,I25.1,Atherosclerotic heart disease,2025-05-25
+PAT0963,E78.5,Dyslipidaemia,2025-02-01
+PAT0964,E78.5,Dyslipidaemia,2025-04-29
+PAT0964,I50.9,Heart failure,2025-02-01
+PAT0965,I50.9,Heart failure,2025-01-27
+PAT0965,I25.1,Atherosclerotic heart disease,2025-08-29
+PAT0966,I50.9,Heart failure,2025-12-15
+PAT0966,I25.1,Atherosclerotic heart disease,2025-08-11
+PAT0967,I10,Essential hypertension,2025-12-03
+PAT0967,I25.1,Atherosclerotic heart disease,2025-06-14
+PAT0968,I25.1,Atherosclerotic heart disease,2025-10-26
+PAT0969,I10,Essential hypertension,2025-08-31
+PAT0969,I25.1,Atherosclerotic heart disease,2025-02-01
+PAT0970,I25.1,Atherosclerotic heart disease,2025-02-18
+PAT0970,I10,Essential hypertension,2025-10-19
+PAT0971,I10,Essential hypertension,2025-02-24
+PAT0972,I50.9,Heart failure,2025-09-15
+PAT0972,E78.5,Dyslipidaemia,2025-03-13
+PAT0973,I25.1,Atherosclerotic heart disease,2025-10-22
+PAT0974,I10,Essential hypertension,2025-09-04
+PAT0975,I10,Essential hypertension,2025-11-13
+PAT0975,I25.1,Atherosclerotic heart disease,2025-03-15
+PAT0976,I50.9,Heart failure,2025-09-30
+PAT0976,E78.5,Dyslipidaemia,2025-10-15
+PAT0977,I25.1,Atherosclerotic heart disease,2025-10-03
+PAT0978,I25.1,Atherosclerotic heart disease,2025-04-27
+PAT0978,I50.9,Heart failure,2025-02-08
+PAT0979,I10,Essential hypertension,2025-03-11
+PAT0980,I25.1,Atherosclerotic heart disease,2025-11-13
+PAT0980,I50.9,Heart failure,2025-06-10
+PAT0981,I10,Essential hypertension,2025-05-23
+PAT0981,I25.1,Atherosclerotic heart disease,2025-12-10
+PAT0982,I25.1,Atherosclerotic heart disease,2025-10-16
+PAT0982,I10,Essential hypertension,2025-02-27
+PAT0983,I50.9,Heart failure,2025-02-07
+PAT0984,I25.1,Atherosclerotic heart disease,2025-02-07
+PAT0984,I50.9,Heart failure,2025-07-15
+PAT0985,I10,Essential hypertension,2025-12-29
+PAT0986,I10,Essential hypertension,2025-07-11
+PAT0986,E78.5,Dyslipidaemia,2025-07-10
+PAT0987,I10,Essential hypertension,2025-12-08
+PAT0988,I25.1,Atherosclerotic heart disease,2025-07-16
+PAT0988,I10,Essential hypertension,2025-11-11
+PAT0989,I50.9,Heart failure,2025-11-11
+PAT0989,I25.1,Atherosclerotic heart disease,2025-09-10
+PAT0990,I10,Essential hypertension,2025-09-20
+PAT0990,E78.5,Dyslipidaemia,2025-09-25
+PAT0991,I50.9,Heart failure,2025-01-27
+PAT0991,I25.1,Atherosclerotic heart disease,2025-01-27
+PAT0992,I10,Essential hypertension,2025-10-25
+PAT0992,I25.1,Atherosclerotic heart disease,2025-12-29
+PAT0993,I25.1,Atherosclerotic heart disease,2025-11-26
+PAT0993,E78.5,Dyslipidaemia,2025-05-22
+PAT0994,E78.5,Dyslipidaemia,2025-02-22
+PAT0995,I10,Essential hypertension,2025-06-04
+PAT0996,I50.9,Heart failure,2025-10-04
+PAT0996,I10,Essential hypertension,2025-08-09
+PAT0997,I25.1,Atherosclerotic heart disease,2025-06-17
+PAT0998,I10,Essential hypertension,2025-04-23
+PAT0999,I50.9,Heart failure,2025-01-05
+PAT0999,I10,Essential hypertension,2025-11-12
+PAT1000,I25.1,Atherosclerotic heart disease,2025-07-21
+PAT1000,E78.5,Dyslipidaemia,2025-03-31
