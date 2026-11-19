@@ -40,3 +40,5 @@ data/processed/*
 
 # Script backups
 *_backup.py
+clinflow_env/
+scripts/validate_clinical_data_before_tests.py
