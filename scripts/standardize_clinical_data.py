@@ -1,3 +1,4 @@
+import argparse
 import re
 from pathlib import Path
 
@@ -198,18 +199,18 @@ def standardize_diagnoses(diagnoses):
 
 
 # Load raw datasets
-def load_datasets():
+def load_datasets(input_dir=RAW_DIR):
     datasets = {
         "patients": pd.read_csv(
-            RAW_DIR / "patients.csv",
+            input_dir / "patients.csv",
             dtype={"patient_id": "string"},
         ),
         "laboratory": pd.read_csv(
-            RAW_DIR / "laboratory.csv",
+            input_dir / "laboratory.csv",
             dtype={"patient_id": "string"},
         ),
         "diagnoses": pd.read_csv(
-            RAW_DIR / "diagnoses.csv",
+            input_dir / "diagnoses.csv",
             dtype={"patient_id": "string"},
         ),
     }
@@ -277,34 +278,36 @@ def assess_duplicates(processed, cleaning_log):
 
 
 # Save processed datasets and audit report
-def save_outputs(processed, cleaning_log):
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    LOG_DIR.mkdir(parents=True, exist_ok=True)
+def save_outputs(processed, cleaning_log, output_dir=OUTPUT_DIR, log_dir=LOG_DIR):
+    output_dir.mkdir(parents=True, exist_ok=True)
+    log_dir.mkdir(parents=True, exist_ok=True)
 
     for name, df in processed.items():
-        df.to_csv(OUTPUT_DIR / f"{name}_clean.csv", index=False)
+        df.to_csv(output_dir / f"{name}_clean.csv", index=False)
 
     cleaning_report = pd.DataFrame(cleaning_log)
-
-    cleaning_report.to_csv(
-        LOG_DIR / "cleaning_report.csv",
-        index=False,
-    )
+    cleaning_report.to_csv(log_dir / "cleaning_report.csv", index=False)
 
 
 # Main execution
 def main():
+    parser = argparse.ArgumentParser(
+        description="Standardize synthetic clinical research datasets"
+    )
+    parser.add_argument("--input-dir", type=Path, default=RAW_DIR)
+    parser.add_argument("--output-dir", type=Path, default=OUTPUT_DIR)
+    parser.add_argument("--log-dir", type=Path, default=LOG_DIR)
+
+    args = parser.parse_args()
+
     print("Loading clinical datasets...")
 
-    datasets = load_datasets()
-
+    datasets = load_datasets(args.input_dir)
     cleaning_log = []
 
     processed = process_datasets(datasets, cleaning_log)
-
     assess_duplicates(processed, cleaning_log)
-
-    save_outputs(processed, cleaning_log)
+    save_outputs(processed, cleaning_log, args.output_dir, args.log_dir)
 
     print("\n===================================")
     print("CLINICAL DATA STANDARDIZATION")
@@ -315,10 +318,10 @@ def main():
 
     print("\nOutput files generated:")
     for name in processed:
-        print(OUTPUT_DIR / f"{name}_clean.csv")
+        print(args.output_dir / f"{name}_clean.csv")
 
     print("\nCleaning report generated:")
-    print(LOG_DIR / "cleaning_report.csv")
+    print(args.log_dir / "cleaning_report.csv")
 
     print("\nStandardization completed successfully.")
 
