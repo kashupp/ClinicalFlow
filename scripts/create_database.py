@@ -1,3 +1,4 @@
+import argparse
 import sqlite3
 from pathlib import Path
 
@@ -48,10 +49,10 @@ CREATE INDEX IF NOT EXISTS idx_diagnoses_date
 """
 
 
-def create_database():
-    DATABASE_DIR.mkdir(parents=True, exist_ok=True)
+def create_database(database_path=DATABASE_PATH):
+    database_path.parent.mkdir(parents=True, exist_ok=True)
 
-    connection = sqlite3.connect(DATABASE_PATH)
+    connection = sqlite3.connect(database_path)
 
     try:
         connection.execute("PRAGMA foreign_keys = ON")
@@ -59,7 +60,7 @@ def create_database():
         connection.commit()
 
         print("SQLite database created successfully.")
-        print(f"Database location: {DATABASE_PATH}")
+        print(f"Database location: {database_path}")
 
         tables = connection.execute(
             """
@@ -79,5 +80,19 @@ def create_database():
         connection.close()
 
 
+def main():
+    parser = argparse.ArgumentParser(
+        description="Create the ClinicalFlow SQLite database"
+    )
+    parser.add_argument(
+        "--database",
+        type=Path,
+        default=DATABASE_PATH,
+    )
+
+    args = parser.parse_args()
+    create_database(args.database)
+
+
 if __name__ == "__main__":
-    create_database()
+    main()

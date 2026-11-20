@@ -1,3 +1,4 @@
+import argparse
 import sqlite3
 from pathlib import Path
 
@@ -27,13 +28,14 @@ def load_csv(connection, table_name, file_path):
     return len(df)
 
 
-def load_database():
-    connection = sqlite3.connect(DATABASE_PATH)
+def load_database(database_path=DATABASE_PATH, datasets=DATASETS):
+    connection = sqlite3.connect(database_path)
+
     try:
         connection.execute("PRAGMA foreign_keys = ON")
 
         with connection:
-            for table_name, file_path in DATASETS.items():
+            for table_name, file_path in datasets.items():
                 if not file_path.exists():
                     raise FileNotFoundError(f"Dataset not found: {file_path}")
 
@@ -55,5 +57,41 @@ def load_database():
         connection.close()
 
 
+def main():
+    parser = argparse.ArgumentParser(
+        description="Load cleaned clinical datasets into SQLite"
+    )
+    parser.add_argument(
+        "--database",
+        type=Path,
+        default=DATABASE_PATH,
+    )
+    parser.add_argument(
+        "--patients",
+        type=Path,
+        default=DATASETS["patients"],
+    )
+    parser.add_argument(
+        "--laboratory",
+        type=Path,
+        default=DATASETS["laboratory"],
+    )
+    parser.add_argument(
+        "--diagnoses",
+        type=Path,
+        default=DATASETS["diagnoses"],
+    )
+
+    args = parser.parse_args()
+
+    datasets = {
+        "patients": args.patients,
+        "laboratory": args.laboratory,
+        "diagnoses": args.diagnoses,
+    }
+
+    load_database(args.database, datasets)
+
+
 if __name__ == "__main__":
-    load_database()
+    main()
