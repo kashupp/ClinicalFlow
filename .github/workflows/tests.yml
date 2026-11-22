@@ -54,5 +54,8 @@ jobs:
       - name: Check formatting
         run: ruff format --check scripts tests
 
+      - name: Build Docker image
+        run: docker build -t clinicalflow:1.0 .
+
       - name: Run tests
         run: python -m pytest -v
