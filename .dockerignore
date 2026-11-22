@@ -1,0 +1,17 @@
+
+.git
+.github
+.clinflow_env
+clinflow_env
+.venv
+venv
+__pycache__
+.pytest_cache
+.ruff_cache
+.nextflow
+work
+results
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
